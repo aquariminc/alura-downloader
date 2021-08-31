@@ -1,0 +1,6412 @@
+[
+  {
+    "tempo_estimado": 8,
+    "slug": "net-5-ef-core-relacionando-entidades",
+    "nome": ".NET 5 e EF Core: Relacionando entidades"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "dotnet-mongodb",
+    "nome": ".Net e MongoDB parte 1: Primeiros passos para usar esse famoso banco NoSQL"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "dotnet-mongodb-parte2",
+    "nome": ".Net e MongoDB parte 2: Integre uma webapp com o banco NoSQL"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "io-em-r",
+    "nome": "(I/O) com R: Formatos diferentes de entrada e saída"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "empresa-agil",
+    "nome": "A Empresa Ágil: Introduzindo o Business Agility nas organizações"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "abap",
+    "nome": "ABAP parte 1: Introdução à linguagem criando relatórios"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "abap-relatorios-alv-sap",
+    "nome": "ABAP parte 2: Construindo relatórios ALV no SAP"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "abap-persistencia",
+    "nome": "ABAP parte 3: Persistindo dados"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "acessibilidade-web-front-end",
+    "nome": "Acessibilidade web parte 1: tornando seu front-end inclusivo"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "acessibilidade-web-front-end-parte-2",
+    "nome": "Acessibilidade web parte 2: Componentes acessíveis com um pouco de JavaScript"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "acessibilidade-web-design-inclusivos",
+    "nome": "Acessibilidade web: introdução a designs inclusivos"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "big-query-manipulacao-programatico-linguagens",
+    "nome": "Acesso ao Big Query: Manipulação programático linguagens"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "mysql-dba-administracao",
+    "nome": "Administração do MySQL: Segurança e otimização do banco"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "oracle-dba-administracao-criacao-gerenciamento",
+    "nome": "Administração do Oracle Database: Criação e gerenciamento do banco"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "oracle-dba-administracao-seguranca-otimizacao",
+    "nome": "Administração do Oracle Database: Segurança e otimização do banco"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "element-3d",
+    "nome": "Adobe After Effects: Animando a partir do Element 3D"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "after-effects-personagem",
+    "nome": "Adobe After Effects: Construção do personagem no Photoshop"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "after-effects-post-instagram",
+    "nome": "Adobe After Effects: Desenvolvendo uma peça para o Instagram"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "adobe-fresco-pintura-digital-mobile",
+    "nome": "Adobe Fresco: Pintura digital mobile"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "vetor-illustrator",
+    "nome": "Adobe Illustrator: Introdução ao desenho vetorial"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "adobe-illustrator-gradiente",
+    "nome": "Adobe Illustrator: Trabalhando a partir do gradiente"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "adobe-illustrator-tipografia-edicao",
+    "nome": "Adobe Illustrator: Trabalhando com edição tipográfica"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "illustrator-vetorizacao-pen",
+    "nome": "Adobe Illustrator: Vetorizando a partir da pen tool"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "indesign-introducao",
+    "nome": "Adobe Indesign: Introdução a diagramação"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "indesign-ebook",
+    "nome": "Adobe InDesign: Trabalhando na diagramação de um eBook"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "adobe-lightroom-aplicacoes-profissionais",
+    "nome": "Adobe Lightroom: Lidando com aplicações profissionais"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "vfx-video-composite",
+    "nome": "Adobe Photoshop e Adobe After Effects: Trabalhando com vídeo composite no vfx"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "composicao-impressao",
+    "nome": "Adobe Photoshop e Adobe Illustrator: Composição para impressão"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "photoshop-illustrator-motion-design",
+    "nome": "Adobe Photoshop e Illustrator: Desenvolvendo layout para Motion Design"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "photoshop-illustrator-vetor-composicao",
+    "nome": "Adobe Photoshop e Illustrator: Do vetor à composição"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "photoshop-illustrator-midias",
+    "nome": "Adobe Photoshop e Illustrator: Práticas de edição gráfica para mídias sociais"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "adobe-photoshop-composicao",
+    "nome": "Adobe Photoshop: Compondo peça publicitária"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "adobe-photoshop-mesclagem-imagens",
+    "nome": "Adobe Photoshop: Composição com mesclagem de imagens"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "adobe-photoshop-cor-narrativa-hq",
+    "nome": "Adobe Photoshop: Cor e Narrativa em uma HQ"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "adobe-photoshop-iluminacao-hq",
+    "nome": "Adobe Photoshop: Iluminação dentro de uma HQ"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "adobe-photoshop-tratamento-pele",
+    "nome": "Adobe Photoshop: Lidando com imperfeições de pele"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "photoshop-colorizacao-hqs",
+    "nome": "Adobe Photoshop: Processo de colorização para HQ's"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "adobe-photoshop-tons-pele-correcoes",
+    "nome": "Adobe Photoshop: Tons de pele e correções"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "photoshop-tratamento-imagem",
+    "nome": "Adobe Photoshop: Tratamento de imagem"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "tratamento-imagem-publicitario",
+    "nome": "Adobe Photoshop: Tratando imagem com viés publicitário"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "adobe-photoshop-tratamento-refinado",
+    "nome": "Adobe Photoshop: Tratando imagens com técnicas refinadas"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "adobe-premiere-introducao-edicao-video",
+    "nome": "Adobe Premiere 2020: Introdução à edição de vídeo"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "adobe-premiere-rush",
+    "nome": "Adobe Premiere Rush: Edite seus vídeos direto do seu smartphone"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "adobe-premiere-cor-grading",
+    "nome": "Adobe Premiere: Cor Grading"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "premiere-video-instucional",
+    "nome": "Adobe Premiere: Criação de vídeo institucional"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "adobe-xd-componentes",
+    "nome": "Adobe XD: Componentes da interface"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "adobe-xd-site-mobile",
+    "nome": "Adobe XD: Design visual de um site mobile"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "adobe-xd-interface",
+    "nome": "Adobe XD: refinando o visual da interface"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "xd-microinteracoes",
+    "nome": "Adobe XD: trabalhando com microinterações"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "advergames",
+    "nome": "Advergame: da ideia à prancha conceito"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "affinity-design-desenho-vetorial",
+    "nome": "Affinity Designer: Introdução ao desenho vetorial"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "affinity-designer-vetorizacao-ilustracoes",
+    "nome": "Affinity Designer: Vetorizando ilustrações"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "affinity-photo-composicao-foto-manipulacao",
+    "nome": "Affinity Photo: Composição e foto manipulação"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "affinity-photo-peca-grafica",
+    "nome": "Affinity Photo: Desenvolvendo uma peça gráfica"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "affinity-photo-tratamento-imagem",
+    "nome": "Affinity Photo: Tratamento de imagens"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "affinity-publisher-diagramacao",
+    "nome": "Affinity Publisher: Diagramação de conteúdo"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "after-effects-lower-third",
+    "nome": "After Effects: Animando Lower Third "
+  },
+  {
+    "tempo_estimado": 9,
+    "slug": "after-effects-spot-comercial",
+    "nome": "After Effects: Animando Spot Comercial"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "after-effects-bus-midia",
+    "nome": "After Effects: Animando uma Bus Mídia"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "after-effects-track",
+    "nome": "After Effects: Compondo a partir de track motion"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "after-effects-composicao-e-sonorizacao-de-animacao",
+    "nome": "After Effects: Composição e Sonorização de Animação"
+  },
+  {
+    "tempo_estimado": 15,
+    "slug": "after-effects-tecnicas-composicao",
+    "nome": "After Effects: Técnicas de composição e fluxo de trabalho"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "after-effects-video-comercial-para-internet",
+    "nome": "After Effects: Vídeos comerciais do zero até o render"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "agile-avancado",
+    "nome": "Agile Avançado: Crie modelos e descubra o Nexus"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "agile-coach",
+    "nome": "Agile Coach: lidere a transformação nas empresas"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "agile-na-pratica",
+    "nome": "Agile na Prática: Técnicas aplicadas para gestão ágil"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "agilidade-devops-desenvolvimento-software",
+    "nome": "Agilidade e DevOps: Um dia no desenvolvimento de software"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "agilidade-tdd-desenvolvimento-software",
+    "nome": "Agilidade e TDD: Um dia no desenvolvimento de software"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "alavancas-gestao-conhecimento-aprendizagem-produtividade",
+    "nome": "Alavancas de gestão do conhecimento: Aprendizagem e produtividade"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "projetos-de-algoritmos-1",
+    "nome": "Algoritmos I: Selection, Insertion e Introdução a Análise"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "projetos-de-algoritmos-2",
+    "nome": "Algoritmos II: MergeSort, QuickSort, Busca Binária e Análise de Algoritmo"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "iot-amazon-alexa",
+    "nome": "Amazon Alexa: Controle o seu ambiente com sua voz"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "amazon-alexa-assistente-pessoal",
+    "nome": "Amazon Alexa: Programe a sua assistente pessoal"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "amazon-api-gateway",
+    "nome": "Amazon API Gateway: Integrando e protegendo serviços"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "amazon-cloudfront-route53",
+    "nome": "Amazon Cloud Front e Route53: Distribua os seus arquivos e crie seu próprio domínio"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "amazon-cloudwatch-monitoramento",
+    "nome": "Amazon CloudWatch: Visibilidade completa das aplicações e serviços na nuvem"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "deploy-continuo-aws-code-deploy",
+    "nome": "Amazon Code Deploy: Deploy Continuo com AWS"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "amazon-cognito",
+    "nome": "Amazon Cognito: autenticação como serviço"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "spring-amazon",
+    "nome": "Amazon e Spring: Deploy de uma aplicação Spring MVC na AWS"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "docker-na-amazon-ecs",
+    "nome": "Amazon ECS: Gerencie Docker na nuvem da AWS"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "amazon-eks-kubernetes",
+    "nome": "Amazon EKS: Gerenciando aplicações conteinerizadas com Kubernetes"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "elastic-beanstalk",
+    "nome": "Amazon Elastic Beanstalk Parte 1: Container Docker"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "elastic-beanstalk-multiplos-containers",
+    "nome": "Amazon Elastic Beanstalk Parte 2: Múltiplos containers e NGINX"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "amazon-iot",
+    "nome": "Amazon IoT: Conecte dispositivos à nuvem e defina regras de notificação"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "serverless-aws-lambda",
+    "nome": "Amazon Lambda: Primeiros passos à execução de código sem servidor"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "amazon-lightsail",
+    "nome": "Amazon Lightsail: Descomplicando a nuvem"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "aws-s3-manipule-e-armazene-na-nuvem",
+    "nome": "Amazon S3: Manipule e armazene objetos na nuvem"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "amazon-vpc",
+    "nome": "Amazon VPC: Provisione uma nuvem privada"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "gestao-processos-implantando-melhorias",
+    "nome": "Análise da gestão de processos: Implantando melhorias"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "analise-de-dados-excel",
+    "nome": "Análise de dados: Introdução com Excel"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "business-analytics-com-r",
+    "nome": "Análise de dados: Introdução com R"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "analise-serie-temporal-covid-19",
+    "nome": "Análise de série temporal: COVID-19"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "analise-classificacao-faces-visao-computacional-opencv",
+    "nome": "Análise e Classificação de Faces: Visão Computacional com OpenCV"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "android-validacoes-formatacoes",
+    "nome": "Android Brasil: Validações e formatações"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "android-espresso-teste-interface",
+    "nome": "Android com Espresso parte 1: Teste da interface do usuário"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "android-espresso-testes-complexos",
+    "nome": "Android com Espresso parte 2: Testes de fluxos complexos"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "fundamentos-android-kotlin",
+    "nome": "Android com Kotlin: Crie o seu primeiro app"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "android-fragments",
+    "nome": "Android Fragments: Reutilizando componentes visuais"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "android-sua-primeira-app-mobile",
+    "nome": "Android parte 1: Crie a sua primeira app mobile"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "android-testes-automatizados-tdd",
+    "nome": "Android parte 1: Testes automatizados e TDD"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "android-avancando-listeners-menu-ui",
+    "nome": "Android parte 2: Avançando com listeners, menu e UI"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "android-boas-praticas-e-cenarios-testes",
+    "nome": "Android parte 2: Boas práticas e novos cenários de testes"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "android-refinando-o-projeto",
+    "nome": "Android parte 3: Refinando o projeto"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "android-room",
+    "nome": "Android Room parte 1: Introdução a persistência de dados com ORM"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "android-room-operacoes-assincronas",
+    "nome": "Android Room parte 2: Operações assíncronas"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "android-api-web",
+    "nome": "Android: Acessando uma API web"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "angular-rxjs-introducao-programacao-reativa",
+    "nome": "Angular e RxJS: Programação reativa"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "angular-fundamentos",
+    "nome": "Angular parte 1: Fundamentos"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "angular-autenticacao",
+    "nome": "Angular parte 2: Autenticação, Forms e lazy loading"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "angular-upload-build",
+    "nome": "Angular parte 3: upload, build e novos componentes"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "angular-lapidando-projeto",
+    "nome": "Angular parte 4: lapidando o projeto"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "angular-avancando-testes-automatizados",
+    "nome": "Angular: Avançando com testes automatizados"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "angular-avancando-componentes-acessibilidade",
+    "nome": "Angular: Avançando no design de componentes com acessibilidade"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "angular-boas-praticas-arquiteturas-formularios",
+    "nome": "Angular: Boas práticas em arquiteturas e formulários"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "angular-comecando-framework",
+    "nome": "Angular: Começando com o framework"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "angular-controle-fluxo-navegacao",
+    "nome": "Angular: Controle o fluxo de navegação"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "angular-introducao-componentes-acessibilidade",
+    "nome": "Angular: Design de componentes com acessibilidade"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "angular-testes-automatizados-jasmin-karma",
+    "nome": "Angular: Testes automatizados com Jasmine e Karma"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "ansible-awx-galaxy-vault",
+    "nome": "Ansible: AWX, Galaxy e Vault"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "infraestrutura-como-codigo-com-ansible",
+    "nome": "Ansible: Sua infraestrutura como código"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "apache-beam-data-pipeline-python",
+    "nome": "Apache Beam: Data Pipeline com Python"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "camel",
+    "nome": "Apache Camel: O framework de integração entre sistemas"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "api-django-3-testes-documentacao",
+    "nome": "API com Django 3: Aprofundando em testes e documentação"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "api-django-3-rest-framework",
+    "nome": "API com Django 3: Django Rest Framework"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "api-django-3-testes-seguranca-lapidacoes",
+    "nome": "API com Django 3: Testes, segurança e lapidações"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "api-django-3-validacoes-buscas-filtros-deploy",
+    "nome": "API com Django 3: Validações, buscas, filtros e deploy"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "api-django-3-versionamento-cabecalhos-cors",
+    "nome": "API com Django 3: Versionamento, cabeçalhos e CORS"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "api-rest-net-core-5-operacoes-verbos-http",
+    "nome": "API Rest com .NET Core 5: Operações essenciais com verbos HTTP"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "api-rest-kotlin-spring-boot-camada-persistencia",
+    "nome": "API REST com Kotlin e Spring Boot: Camada de persistência"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "api-rest-kotlin-spring-boot-camada-web",
+    "nome": "API REST com Kotlin e Spring Boot: Camada Web"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "asp-net-core-web-api-rest",
+    "nome": "APIs Rest com Asp.NET Core 2.1 Parte 2: Consumindo nossa API"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "api-rest-net-core-2-padronizacao",
+    "nome": "APIs Rest com Asp.NET Core 2.1 Parte 3: padronizando a API"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "api-rest-nestjs-busca-validacao-serializacao-arquitetura",
+    "nome": "APIs REST com NestJS: Buscas, validação, serialização e detalhes arquiteturais"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "aplicacoes-serverless-construindo-api-rest",
+    "nome": "Aplicações Serverless: Construindo uma API REST"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "aplicacoes-serverless-aplicacao-fullstack",
+    "nome": "Aplicações Serverless: Integrando aplicação fullstack"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "appium-android",
+    "nome": "Appium: Iniciando com testes de interface"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento",
+    "nome": "Aprender a Aprender: Técnicas para seu autodesenvolvimento"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "portfolio-personagem",
+    "nome": "Apresentação de personagem: Criando o portfólio"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "android-archtecture-components",
+    "nome": "Architecture Components: ViewModel, LiveData e Room"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "arduino",
+    "nome": "Arduino: Do zero ao jogo"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "arduino-robotica",
+    "nome": "Arduino: Introdução à Robótica"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "arquitetura-css",
+    "nome": "Arquitetura CSS: Descomplicando os problemas"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "arquitetura-computadores-funcionamento-programa",
+    "nome": "Arquitetura de computadores: Por trás de como seu programa funciona"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "arvores-decisao-aprofundando-modelos-machine-learning",
+    "nome": "Árvores de Decisão: Aprofundando em modelos de Machine Learning"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "webapp-com-aspnet-core-2",
+    "nome": "ASP.NET Core parte 1: Um e-Commerce com MVC e EF Core"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "aspnet-core-2-validacoes-seguranca",
+    "nome": "ASP.NET Core parte 2: Um e-Commerce com MVC e EF Core"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "aspnet-core-identity",
+    "nome": "ASP.NET Core Parte 3: Identity"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "aspnet-core-identity-server",
+    "nome": "ASP.NET Core Parte 4: IdentityServer"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "aspnet-core-componentes",
+    "nome": "ASP.NET Core Parte 5: Modularização e Componentização"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "introducao-ao-mvc-com-asp-net-core",
+    "nome": "Asp.NET Core: Uma webapp usando o padrão MVC"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp-aspnet-identity-pt1",
+    "nome": "ASP.NET Identity parte 1: Gerencie contas de usuários"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp-aspnet-identity-pt2",
+    "nome": "ASP.NET Identity parte 2: autenticação e segurança com lockout"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp-aspnet-identity-pt3",
+    "nome": "ASP.NET Identity parte 3: Autorização, autenticação externa com redes sociais"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp-aspnet-identity-pt4",
+    "nome": "ASP.NET Identity parte 4: Autenticação mais segura com 2 fatores"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "google-cloud-engineer-certificacao-parte1",
+    "nome": "Associate Cloud Engineer parte 1: A certificação do Google Cloud"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "google-cloud-engineer-certificacao-parte2",
+    "nome": "Associate Cloud Engineer parte 2: A certificação do Google Cloud"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "google-cloud-engineer-certificacao-parte3",
+    "nome": "Associate Cloud Engineer parte 3: A certificação do Google Cloud"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "google-cloud-engineer-certificacao-parte4",
+    "nome": "Associate Cloud Engineer parte 4: A certificação do Google Cloud"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "autenticacao-django-2",
+    "nome": "Autenticação no Django 3: formulários, requisições e mensagens"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "automacao-residencial-sensores",
+    "nome": "Automação residencial parte 1: Integrando sensores no Home Assistant"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "automacao-residencial-regras-acoes-triggers",
+    "nome": "Automação residencial parte 2: Aplicando regras, ações e triggers"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "automacao-residencial-home-assistant-novidades",
+    "nome": "Automação residencial: Novidades do Home Assistant"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "c-plus-plus-avancando-linguagem",
+    "nome": "Avançando com C++: Entenda melhor a linguagem"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "c-plus-plus-enum-templates-recursos",
+    "nome": "Avançando com C++: Enum, templates e mais recursos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "c-plus-plus-performance-otimizacao",
+    "nome": "Avançando com C++: Performance e otimização"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "php-oo-heranca-polimorfirmo-interfaces",
+    "nome": "Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "php-arrays-strings-funcoes",
+    "nome": "Avançando com PHP: Arrays, Strings, Função e Web"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "aws-certified-solutions-architect-associate-parte1",
+    "nome": "AWS Certification: Solution Architect Associate Parte 1"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "aws-certified-solutions-architect-associate-parte2",
+    "nome": "AWS Certification: Solutions Architect Associate Parte 2"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "aws-certified-solutions-architect-associate-parte3",
+    "nome": "AWS Certification: Solutions Architect Associate Parte 3"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "aws-certified-solutions-architect-associate-parte4",
+    "nome": "AWS Certification: Solutions Architect Associate Parte 4"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "aws-certified-cloud-practitioner-domain-1-e-2",
+    "nome": "AWS Certified Cloud Practitioner: Domain 1 e 2"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "aws-certified-cloud-practitioner-domain-3-e-4",
+    "nome": "AWS Certified Cloud Practitioner: Domain 3 e 4"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "aws-certified-solutions-architect-associate-simulado",
+    "nome": "AWS Certified Solutions Architect Associate: Simulado comentado"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "aws-sagemaker-machine-learning-producao",
+    "nome": "AWS SageMaker: Machine Learning em produção"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "aws-sqs-mensageria-desacoplamento-sistemas",
+    "nome": "AWS SQS: Mensageria e desacoplamento de sistemas"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "azure-file-blob-conta-de-armazenamento",
+    "nome": "Azure Armazenamento: Trabalhando com File e Blob"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "azure-functions",
+    "nome": "Azure Functions: Rodando código sem servidor"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "introducao-ao-azure-com-webapps-e-sql",
+    "nome": "Azure: Deploy de uma webapp na nuvem da Microsoft"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "azure-gerencie-kubernetes-com-aks-acr",
+    "nome": "Azure: Gerencie Kubernetes com AKS e ACR"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "bdd-cucumber-java",
+    "nome": "BDD e Java: Behavior Driven Development com Cucumber"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "bigquery-funcoes",
+    "nome": "BigQuery: Funções do BigQuery"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "bigquery-manipulacao-dados",
+    "nome": "BigQuery: Manipulação de dados"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "bigquery-banco-dados-google-big-data",
+    "nome": "BigQuery: O banco de dados da Google para Big Data"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "bizagi-com-bpmn",
+    "nome": "Bizagi: Introdução ao mapeamento de processos com BPMN"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "blender-2-91-mapeamento-uv",
+    "nome": "Blender 2.91: Trabalhando com mapeamentos UV"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "blender-3d-modelagem-inorganica",
+    "nome": "Blender 3D: Modelagem inorgânica"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "blender-zbrush-blocagem-escultura",
+    "nome": "Blender e ZBrush: Da blocagem à escultura"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "blender-abertura-uv",
+    "nome": "Blender: Abertura de UV"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "blender-blocagem-primitivas-personagem",
+    "nome": "Blender: Criando a blocagem de personagens com primitivas"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "blender-personagem-poly-by-poly",
+    "nome": "Blender: Criando personagens com a técnica Poly by poly"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "blender-interpretacao-concept-2d-3d",
+    "nome": "Blender: Interpretação de concepts 2D para o 3D"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "blender-modelagem-producao",
+    "nome": "Blender: Modelagem para produção"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "blender-modelagem-cabeca-personagem",
+    "nome": "Blender: Modelando a cabeça de personagens"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "blender-modelagem-corpo-personagens",
+    "nome": "Blender: Modelando o corpo de personagens"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "blender-mapeamento-uv",
+    "nome": "Blender: Técnicas de UV Mapping"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "blender-textura-esculturas-hand-paint",
+    "nome": "Blender: Texturizando esculturas com Hand Paint"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "blender-modelagem-low-poly",
+    "nome": "Blender: Trabalhando na modelagem Low Poly"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "blender-texturizacao",
+    "nome": "Blender: Trabalhando na texturização"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "blender-retopologia-3d-coat",
+    "nome": "Blender: Utilizando o 3DCoat na etapa de retopologia"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "blockchain-para-negocios",
+    "nome": "Blockchain para Negócios: aplicações e cases reais"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "blockchain-confianca-da-sua-aplicacao",
+    "nome": "Blockchain: Aumente a confiança da sua aplicação"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "django-2-boas-praticas",
+    "nome": "Boas práticas no Django 3: apps, pastas e paginação"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "bootstrap-landing-page",
+    "nome": "Bootstrap 4: Criando uma landing page responsiva"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "bootstrap-criacao-single-page-responsiva",
+    "nome": "Bootstrap: criação de uma single-page responsiva"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "branding",
+    "nome": "Branding: Criando uma marca forte"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "bsc-aplicado-na-gestao-de-portfolios",
+    "nome": "BSC: Aplicado na gestão de portfólios"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "msbuild-dotnet-cli",
+    "nome": "Build de uma aplicação .NET: construindo seus projetos com MSBuild"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "business-intelligence-introducao-inteligencia-empresarial",
+    "nome": "Business Intelligence: Introdução à inteligência empresarial"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "business-model-canvas",
+    "nome": "Business Model Canvas parte I :  Um modelo poderoso para o seu negócio"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "avance-na-construcao-de-negocios",
+    "nome": "Business Model Canvas parte II :  Avance no seu modelo de negócios"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "introducao-a-programacao-com-c-parte-1",
+    "nome": "C I: Introdução à Linguagem das Linguagens"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "introducao-a-programacao-com-c-parte-2",
+    "nome": "C II: Avançando na linguagem"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "introducao-a-programacao-com-c-parte-3",
+    "nome": "C III: Recursos avançados da linguagem"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp-atualizacoes",
+    "nome": "C# 6: Melhorias em Coleções, Propriedades, Exceções e Strings"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp7-atualizacoes",
+    "nome": "C# 7: Tuplas, parâmetros, condicionais, e estilo de código"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "c-sharp-brasil-lidando-com-datas-numeros-documentos",
+    "nome": "C# Brasil: Formate datas, cpf e números nacionais"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "csharp-collections",
+    "nome": "C# Collections parte 1: Listas, arrays, listas ligadas, dicionários e conjuntos"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "csharp-collections-parte-2",
+    "nome": "C# Collections parte 2: Coleções ordenadas, arrays multidimensionais e LINQ"
+  },
+  {
+    "tempo_estimado": 18,
+    "slug": "c-big-query-funcoes-manipulacoes",
+    "nome": "C# e Big Query: Mais funções e manipulações"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "c-big-query-manipulando-dados",
+    "nome": "C# e Big Query: Manipulando dados"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp-parte-1-primeiros-passos",
+    "nome": "C# parte 1: Primeiros passos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp-parte-2-introducao-orientacao-objetos",
+    "nome": "C# parte 2: Introdução à Orientação a Objetos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp-parte-3-heranca-interfaces-polimorfismo",
+    "nome": "C# parte 3: Entendendo herança e interface"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp-parte-4-excecoes",
+    "nome": "C# parte 4: Entendendo exceções"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp-biblioteca-dll-documentacao-nuget",
+    "nome": "C# parte 5: Bibliotecas DLLs, documentação e usando o NuGet"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp-string-regex-object",
+    "nome": "C# parte 6: Strings, expressões regulares e a classe Object"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp-array-tipo-generico",
+    "nome": "C# parte 7: Array e tipos genéricos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp-list-lambda-linq",
+    "nome": "C# parte 8: List, lambda, linq"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp-io",
+    "nome": "C# Parte 9: Entrada e saída (I/O) com streams"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp-refatorando-codigo",
+    "nome": "C# Refatoração Parte 1: Praticando refatoração de código"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp-refatorando-codigo-parte-2",
+    "nome": "C# Refatoração Parte 2: Refatorações baseadas em Orientação a Objetos."
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp-refatorando-codigo-parte-3",
+    "nome": "C# Refatoração Parte 3: Hierarquias de classes"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "reflection-parte-1",
+    "nome": "C# Reflection parte 1: Metadados do seu código .NET"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "reflection-parte-2",
+    "nome": "C# Reflection parte 2: Implementando injeção de dependência do zero"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp-eventos-delegates-lambda",
+    "nome": "C#: Eventos, Delegates e Lambda"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp-paralelismo-no-mundo-real",
+    "nome": "C#: Paralelismo no mundo real"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "tdd-csharp-xunit",
+    "nome": "C#: Testes de unidade e TDD com xUnit"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "c-plus-plus-tdd-testes-unidade-catch2",
+    "nome": "C++ e TDD: Testes de unidade com Catch2"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "cpp-introducao-a-linguagem",
+    "nome": "C++: Introdução a linguagem e a STL"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "cdi-usando-umas-das-principais-espeficacoes-do-javaee",
+    "nome": "CDI 1.2: Use uma das principais especificações do JavaEE."
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "certificacao-csharp-criar-tipos",
+    "nome": "Certificação C# Programming parte 1: Criar tipos"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "certificacao-csharp-reflection",
+    "nome": "Certificação C# Programming parte 10: Reflection"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "certificacao-csharp-multithreading",
+    "nome": "Certificação C# Programming parte 11: Multithreading"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "certificacao-csharp-validar-seguranca",
+    "nome": "Certificação C# Programming parte 12: Validar Segurança"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "certificacao-csharp-consumir-tipos",
+    "nome": "Certificação C# Programming parte 2: Consumir tipos"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "certificacao-csharp-encapsulamento-hierarquia-de-classes",
+    "nome": "Certificação C# Programming parte 3: Encapsulamento e Hierarquia de Classes"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "certificacao-csharp-fluxo-de-programa-excecoes",
+    "nome": "Certificação C# Programming parte 4: Fluxo de programa e exceções"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "certificacao-csharp-strings-ciclo-de-vida-objetos",
+    "nome": "Certificação C# Programming parte 5: Strings e Ciclo de Vida de Objetos"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "certificacao-csharp-colecoes-xml-json",
+    "nome": "Certificação C# Programming parte 6: Coleções, XML e JSON"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "certificacao-csharp-eventos-linq",
+    "nome": "Certificação C# Programming parte 7: Eventos e LINQ"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "certificacao-csharp-entrada-saida-dados",
+    "nome": "Certificação C# Programming parte 8: Entrada e Saída de Dados"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "certificacao-csharp-depurar-aplicativos",
+    "nome": "Certificação C# Programming parte 9: Depurar Aplicativos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "certificacao-ccna-parte-1",
+    "nome": "Certificação Cisco CCNA parte 1: Network Fundamentals I"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "certificacao-ccna-parte-2",
+    "nome": "Certificação Cisco CCNA parte 2: Network Fundamentals II"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "certificacao-ccna-parte-3",
+    "nome": "Certificação Cisco CCNA parte 3: LAN Switching Fundamentals"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "certificacao-ccna-parte-4",
+    "nome": "Certificação Cisco CCNA parte 4: Routing Fundamentals"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "certificacao-ccna-parte-5",
+    "nome": "Certificação Cisco CCNA parte 5: Infrastructure Services "
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "certificacao-ccna-parte-6",
+    "nome": "Certificação Cisco CCNA parte 6: Infrastructure Maintenance"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "simulado-certificacao-itil-4-foundation",
+    "nome": "Certificação ITIL 4 Foundation parte 5: Simulado Geral"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "certificacao-itil-4-conceitos-chave-gerenciamento-servicos",
+    "nome": "Certificação ITIL 4 parte 1: Conceitos-Chave para gerenciamento de serviços"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "certificacao-itil-4-sistema-valores-servico",
+    "nome": "Certificação ITIL 4 parte 2: O sistema de valores de serviço"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "certificacao-itil-4-cadeia-valor-quatro-dimensoes",
+    "nome": "Certificação ITIL 4 parte 3: Cadeia de Valor e as Quatro Dimensões"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "certificacao-itil-4-praticas-gerenciamento-servicos",
+    "nome": "Certificação ITIL 4 parte 4: Práticas de Gerenciamento de Serviços"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "certificacao-itil-2",
+    "nome": "Certificação ITIL Foundation v3: Estratégias e Desenho de Serviços parte 2"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "certificacao-itil",
+    "nome": "Certificação ITIL Foundation v3: Introdução ao gerenciamento de TI parte 1"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "certificacao-itil-4",
+    "nome": "Certificação ITIL Foundation v3: Melhoria Contínua de Serviço parte 4"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "certificacao-itil-3",
+    "nome": "Certificação ITIL Foundation v3: Transição e Operação de Serviço parte 3"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "certificacao-java-usando-arrays",
+    "nome": "Certificação Java SE 7 Programmer I: Criando e usando Arrays"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "certificacao-java-loops",
+    "nome": "Certificação Java SE 7 Programmer I: Laços"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "certificacao-java-excecoes",
+    "nome": "Certificação Java SE 7 Programmer I: Lidando com exceções"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "certificacao-java-metodos-encapsulamento",
+    "nome": "Certificação Java SE 7 Programmer I: Métodos e encapsulamento"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "certificacao-java-basico",
+    "nome": "Certificação Java SE 7 Programmer I: O básico de Java"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "certificacao-java-operadores-decisao",
+    "nome": "Certificação Java SE 7 Programmer I: Operadores"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "certificacao-java-heranca",
+    "nome": "Certificação Java SE 7 Programmer I: Relações entre classes"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "certificacao-java-tipos-de-dados",
+    "nome": "Certificação Java SE 7 Programmer I: Tipos de Dados"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "certificacao-java-lambdas-api-de-datas",
+    "nome": "Certificação Java SE 8 Programmer I: Conteúdo além da prova"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "linux-essentials-1",
+    "nome": "Certificação Linux LPI Essentials parte 1: Evolution and Distributions "
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "linux-essentials-10",
+    "nome": "Certificação Linux LPI Essentials parte 10: Where Data is Stored"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "linux-essentials-11",
+    "nome": "Certificação Linux LPI Essentials parte 11: Your Computer on the Network"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "linux-essentials-12",
+    "nome": "Certificação Linux LPI Essentials parte 12: Security and File Permissions"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "linux-essentials-2",
+    "nome": "Certificação Linux LPI Essentials parte 2: Open Source Software and Licensing"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "linux-essentials-3",
+    "nome": "Certificação Linux LPI Essentials parte 3: Command Line Basics"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "linux-essentials-4",
+    "nome": "Certificação Linux LPI Essentials parte 4: Using the command line to get help"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "linux-essentials-5",
+    "nome": "Certificação Linux LPI Essentials parte 5: Directories and Listing Files and managing files"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "linux-essentials-6",
+    "nome": "Certificação Linux LPI Essentials parte 6: Archiving Files on the Command Line"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "linux-essentials-7",
+    "nome": "Certificação Linux LPI Essentials parte 7: Searching and Extracting Data from Files"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "linux-essentials-8",
+    "nome": "Certificação Linux LPI Essentials parte 8: Turning Commands into a Script"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "linux-essentials-9",
+    "nome": "Certificação Linux LPI Essentials parte 9: Understanding Computer Hardware"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "certificacao-pmi-acp-cultura-agil-potencial-aplicacao",
+    "nome": "Certificação PMI-ACP: Conheça a Cultura Ágil e seu potencial de aplicação"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "certificacao-pmi-acp-estrutura-scrum",
+    "nome": "Certificação PMI-ACP: Entenda a estrutura do Scrum"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "certificacao-pmi-acp-entenda-sobre-scrum",
+    "nome": "Certificação PMI-ACP: Entenda mais sobre o Scrum"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "certificacao-pmp-processos-de-gerenciamento-projetos",
+    "nome": "Certificação PMP e CAPM Parte 1: Processos de Gerenciamento de Projetos  "
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "certificacao-pmp-gerenciamento-de-aquisicoes",
+    "nome": "Certificação PMP e CAPM parte 10: Gerenciamento de Aquisições"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "certificacao-pmp-gerenciamento-de-partes-interessadas",
+    "nome": "Certificação PMP e CAPM parte 11: Gerenciamento de partes interessadas"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "certificacao-pmp-gerenciamento-codigo-de-conduta-etica",
+    "nome": "Certificação PMP e CAPM parte 12: Código de conduta e ética"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "pmp-capm-atualizacao",
+    "nome": "Certificação PMP e CAPM parte 13: PMBOK 6ª Edição"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "certificacao-pmp-gerenciamento-de-integracao",
+    "nome": "Certificação PMP e CAPM parte 2: Gerenciamento de Integração "
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "certificacao-pmp-processos-de-gerenciamento-escopo",
+    "nome": "Certificação PMP e CAPM parte 3: Gerenciamento de Escopo"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "certificacao-pmp-gerenciamento-de-tempo",
+    "nome": "Certificação PMP e CAPM parte 4: Gerenciamento de Tempo "
+  },
+  {
+    "tempo_estimado": 3,
+    "slug": "certificacao-pmp-gerenciamento-de-custos",
+    "nome": "Certificação PMP e CAPM parte 5: Gerenciamento de Custos"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "certificacao-pmp-gerenciamento-de-qualidade",
+    "nome": "Certificação PMP e CAPM parte 6: Gerenciamento de Qualidade"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "certificacao-pmp-gerenciamento-de-recursos-humanos",
+    "nome": "Certificação PMP e CAPM parte 7: Gerenciamento dos Recursos Humanos"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "certificacao-pmp-gerenciamento-de-comunicacao",
+    "nome": "Certificação PMP e CAPM parte 8: Gerenciamento de Comunicação"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "certificacao-pmp-gerenciamento-de-riscos",
+    "nome": "Certificação PMP e CAPM parte 9: Gerenciamento de Riscos"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "certificacoes-anbima-cpa-10-cpa-20",
+    "nome": "Certificações ANBIMA: CPA-10 e CPA-20"
+  },
+  {
+    "tempo_estimado": 9,
+    "slug": "chrome-devtools",
+    "nome": "Chrome DevTools: analise, inspecione e depure suas páginas Web"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "ciclo-de-vida-do-produto",
+    "nome": "Ciclo de vida do produto: projetos e processos do mercado"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "cinema-4d-lite",
+    "nome": "Cinema 4D Lite: Adicionando 3D no After Effects"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "classificacao-multilabel-nlp",
+    "nome": "Classificação multilabel de textos: múltiplos contextos em NLP"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "clojure-colecoes-no-dia-a-dia",
+    "nome": "Clojure: Coleções no dia a dia"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "clojure-explorando-testes",
+    "nome": "Clojure: Explorando testes"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "clojure-property-based-test",
+    "nome": "Clojure: Geradores e testes de propriedades"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "clojure-introducao-a-programacao-funcional",
+    "nome": "Clojure: Introdução à programação funcional"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "clojure-mutabilidade-com-atoms-e-refs",
+    "nome": "Clojure: Mutabilidade com átomos e refs"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "clojure-record-protocol-multi-method",
+    "nome": "Clojure: Record, protocol e multi method"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "clojure-schemas",
+    "nome": "Clojure: Schemas"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "cloud-onboarding-trabalhando-principais-provedores",
+    "nome": "Cloud Onboarding: Trabalhando com os principais provedores"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "clustering-dados-sem-classificacao",
+    "nome": "Clustering Básico: k-means, DBSCAN e mean shift"
+  },
+  {
+    "tempo_estimado": 9,
+    "slug": "cluster-analysis",
+    "nome": "Clustering: extraindo padrões de dados"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "clusterizacao-dados-segmentacao-clientes",
+    "nome": "Clusterização de dados: Segmentação de clientes"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "cobit5-foundations-parte-1",
+    "nome": "COBIT 5 Foundations Parte 1: Introdução a Governança Corporativa"
+  },
+  {
+    "tempo_estimado": 9,
+    "slug": "cobit-5-foundations-parte-2",
+    "nome": "COBIT 5 Foundations Parte 2: Princípios do COBIT 5"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "cobit-5-foundations-parte-3",
+    "nome": "COBIT 5 Foundations Parte 3: Habilitadores do COBIT 5"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "cobit-5-foundations-parte-4",
+    "nome": "COBIT 5 Foundations Parte 4: Implementação e Avaliação de Processos"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "cobol-manipulando-arquivos",
+    "nome": "Cobol parte 2: Manipulando arquivos de dados"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "cobol-primeiros-passos",
+    "nome": "Cobol: Primeiros Passos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "colorizacao-digital",
+    "nome": "Colorização Digital: técnicas de colorização e iluminação"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "mysql-dml-manipulacao-de-dados",
+    "nome": "Comandos DML: Manipulação de dados com MySQL"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "company-page",
+    "nome": "Company Page: Melhorando a presença digital"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "comunicacao-assertiva-reduzindo-conflitos-e-frustracaoes",
+    "nome": "Comunicação Assertiva: Reduzindo conflitos e frustrações"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "comunicacao-corporativa-powerpoint",
+    "nome": "Comunicação corporativa: Usando PowerPoint de forma efetiva"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "comunicacao-estrategica-lideranca-engajar-influenciar-pessoas",
+    "nome": "Comunicação estratégica na liderança: Como engajar e influenciar pessoas"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "flutter-comunicacao-http",
+    "nome": "Comunicação HTTP: Flutter com web API"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "comunicacao-nao-violenta-mantendo-empatia",
+    "nome": "Comunicação não violenta parte 2: Mantendo a empatia"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "comunicacao-nao-violenta",
+    "nome": "Comunicação não violenta: Consciência para agir"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "comunicacao-participativa-lideranca-eficaz-motivadora",
+    "nome": "Comunicação participativa: Liderança eficaz e motivadora"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "comunicacao",
+    "nome": "Comunicação: Como se expressar bem e ser compreendido"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "consultas-multidimensionais-mdx-com-pentaho",
+    "nome": "Consultas Multidimensionais: MDX com Pentaho"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "business-intelligence-mdx-sql-server",
+    "nome": "Consultas Multidimensionais: MDX com SQL Server"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "oracle-database-consultas-sql",
+    "nome": "Consultas SQL no Oracle: Projeções, Seleções, Joins e Views"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "mysql-consultas-sql",
+    "nome": "Consultas SQL: Avançando no SQL com MySQL"
+  },
+  {
+    "tempo_estimado": 3,
+    "slug": "corel-draw-silk-screen",
+    "nome": "Corel Draw: Trabalhando com Silk Screen"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "cores-para-seu-projeto",
+    "nome": "Cores para Designers: Escolhendo e Trabalhando com Cores em um Projeto"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "nlp-corretor-ortografico",
+    "nome": "Corretor Ortográfico em Python: Aplicando técnicas de NLP"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "criacao-imagem-composicao-poster-filme",
+    "nome": "Criação de imagem: Composição de um pôster de filme"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "criacao-de-personagem-anatomia-criativa",
+    "nome": "Criação de personagem: Anatomia criativa"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "criacao-de-personagem",
+    "nome": "Criação de Personagem: do Conceito à Apresentação"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "criacao-personagem-model-sheet",
+    "nome": "Criação de personagem: Model Sheet"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "concept-personagem",
+    "nome": "Criação de personagem: Trabalhando no concept de um personagem"
+  },
+  {
+    "tempo_estimado": 7,
+    "slug": "flutter-introducao",
+    "nome": "Criando widgets, páginas e navegação com Flutter"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "criatividade-aplicada",
+    "nome": "Criatividade Aplicada: Aprimorando o processo criativo no mercado de trabalho"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "criatividade-adequacao",
+    "nome": "Criatividade e adequação: Aprendendo e aprimorando um processo criativo"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "criatividade-potencialize-motivacoes",
+    "nome": "Criatividade: Potencialize a partir das suas motivações"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "css-grid-layout",
+    "nome": "CSS Grid: Simplificando layouts"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "curiosidade-persistencia-resiliencia-ideia-acao",
+    "nome": "Curiosidade, Persistência e Resiliência: Da ideia à ação"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "dart-orientacao-objetos",
+    "nome": "Dart: Dominando a Orientação a Objetos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "dart-primeiro-passos",
+    "nome": "Dart: primeiros passos com a linguagem"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "dashboard-com-pentaho",
+    "nome": "Dashboard com Pentaho: Visualize e analise os dados"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "power-bi-dashboard-relatorios",
+    "nome": "Dashboard com Power BI: Construindo relatórios"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "tableau-conceitos-essencias",
+    "nome": "Dashboard com Tableau: Conceitos essencias"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "dashboards-visoes-de-projetos-e-operacoes",
+    "nome": "Dashboards parte 1: Visões de projetos e operações"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "dashboards-implantando-acoes-gestao",
+    "nome": "Dashboards parte 2: Implantando ações de gestão"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "data-analysis-estatistica-google-sheets",
+    "nome": "Data Analysis: Estatística com Google Sheets"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "data-analysis-introducao-google-sheets",
+    "nome": "Data Analysis: Introdução com Google Sheets"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "data-analysis-previsoes-google-sheets",
+    "nome": "Data Analysis: Previsões com Google Sheets"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "data-analytics-google-cloud",
+    "nome": "Data Analytics: Machine Learning com Google Cloud Platform"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "machine-learning-marketing-digital",
+    "nome": "Data Analytics: Machine Learning no Marketing Digital"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "android-data-binding",
+    "nome": "Data Binding no Android: vinculando modelo com layout"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "data-science-saude-e-medicina",
+    "nome": "Data Science: análises para saúde e medicina"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "data-science-series-temporais",
+    "nome": "Data Science: Introdução a análise de series temporais"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "data-science-introducao-a-testes-estatisticos-com-python",
+    "nome": "Data Science: Introdução a testes estatísticos com Python"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "data-science-regressao-linear",
+    "nome": "Data Science: Modelos de regressão por baixo dos panos"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "data-science-primeiros-passos",
+    "nome": "Data Science: Primeiros passos"
+  },
+  {
+    "tempo_estimado": 7,
+    "slug": "data-science-visualizacao-saude-e-medicina",
+    "nome": "Data Science: visualização de dados para saúde e medicina"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "data-visualization-graficos",
+    "nome": "Data Visualization parte 1: gráficos com uma variável"
+  },
+  {
+    "tempo_estimado": 15,
+    "slug": "data-visualization",
+    "nome": "Data Visualization parte 1: introdução ao design de gráficos"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "data-visualization-escolhendo-melhor-grafico",
+    "nome": "Data Visualization parte 2: Escolhendo o melhor gráfico"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "data-visualization-multivariaveis",
+    "nome": "Data Visualization parte 2: gráficos com multivariáveis"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "customizacao-matplot",
+    "nome": "Data Visualization: criação de gráficos com o Matplotlib"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "data-visualization-boas-praticas",
+    "nome": "Data Visualization: Explorando com rawgraphs"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "data-visualization-com-seaborn",
+    "nome": "Data Visualization: Explorando com Seaborn"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "datomic-identidade-e-queries",
+    "nome": "Datomic Queries: Avançando com o modelo e pesquisas"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "datomic-banco-filtrado-e-historico",
+    "nome": "Datomic: Banco filtrado e histórico"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "datomic-bindings-transaction-functions-e-filters",
+    "nome": "Datomic: Bindings, transaction functions e filters"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "datomic-geradores-schemas-e-indices",
+    "nome": "Datomic: Geradores, schemas e índices"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "datomic-schemas-regras",
+    "nome": "Datomic: Schemas e Regras"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "davinci-resolve-16-edicao-video",
+    "nome": "DaVinci Resolve 16: Introdução à edição de vídeo"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "davinci-colorizacao",
+    "nome": "DaVinci Resolve: Conhecendo o processo de colorização"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "davinci-resolve-cor-colorizacao",
+    "nome": "DaVinci Resolve: Correção de cor e colorização em vídeos"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "edicao-de-video-davinci",
+    "nome": "Davinci Resolve: Introdução a edição de vídeo"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "power-bi-etl-dax-carga-de-dados",
+    "nome": "DAX e ETL com Power BI: Carregando dados"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "deep-learning-introducao-com-keras",
+    "nome": "Deep Learning parte 1: Introdução com Keras"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "deep-learning-como-a-rede-aprende",
+    "nome": "Deep Learning parte 2: Como a rede aprende"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "deep-learning-previsao-keras",
+    "nome": "Deep Learning: Previsão com Keras"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "delegacao-de-tarefas",
+    "nome": "Delegação de Tarefas: obtenha o melhor do seu time"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "delphi-primeiros-passos",
+    "nome": "Delphi: Primeiros Passos com a linguagem"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "amazon-ec2-disponibilidade-escalabilidade",
+    "nome": "Deploy no Amazon EC2: Alta disponibilidade e escalabilidade de uma aplicação"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "oracle-database-desempenho-ambiente",
+    "nome": "Desempenho do Oracle Database: Análise do ambiente"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "oracle-database-desempenho-sql",
+    "nome": "Desempenho do Oracle Database: Otimização de consultas"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "desenho-rosto",
+    "nome": "Desenho de Rosto: anatomia criativa"
+  },
+  {
+    "tempo_estimado": 15,
+    "slug": "anatomia-braco-mao",
+    "nome": "Desenho: Anatomia do braço e mão"
+  },
+  {
+    "tempo_estimado": 15,
+    "slug": "desenho-anatomia-perna-pe",
+    "nome": "Desenho: Anatomia dos membros inferiores"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "desenhando-a-estrutura-humana",
+    "nome": "Desenho: Descomplicando a estrutura humana"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "desenho-rosto-humano",
+    "nome": "Desenho: Descomplicando o desenho do rosto"
+  },
+  {
+    "tempo_estimado": 9,
+    "slug": "desenho-anatomia-torso",
+    "nome": "Desenho: Fundamentos da anatomia do torso"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "fundamentos-luz-sombra",
+    "nome": "Desenho: fundamentos de luz e sombra"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "desenho-pose-movimento",
+    "nome": "Desenho: Trabalhando na pose e movimento"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "desenvolvimento-de-carreira-a-demanda-do-mercado",
+    "nome": "Desenvolvimento de Carreira: A demanda do mercado"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "desenvolvimento-de-carreira-como-alcancar-a-posicao-desejada",
+    "nome": "Desenvolvimento de Carreira: Como alcançar a posição desejada"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "value-proposition-design",
+    "nome": "Design da Proposta de Valor: Transformando produtos e serviços"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "apresentacao-power-point",
+    "nome": "Design de apresentações: Trabalhando com o Power Point"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "design-cenarios-direcao-arte",
+    "nome": "Design de cenários: Direção de arte"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "design-ilustracao-referencias",
+    "nome": "Design de Ilustração: Criando a partir de referências"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "design-logo-proporcao-aurea",
+    "nome": "Design de logo: utilizando a proporção áurea"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "design-personagem-concept-animais-criaturas",
+    "nome": "Design de personagem: Concept de animais e criaturas"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "design-personagem-concept-grupos-animacao",
+    "nome": "Design de personagem: Concept de grupos para animação"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "design-personagem-concept-protagonista-animacao",
+    "nome": "Design de personagem: Concept de protagonista para animação"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "design-personagem-concept-robo",
+    "nome": "Design de personagem: Concept de robôs"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "design-personagem-photobash",
+    "nome": "Design de personagem: Desenvolvendo personagens com a técnica Photobash"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "design-servicos-fundamentos",
+    "nome": "Design de serviços: Fundamentos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "design-editorial",
+    "nome": "Design editorial: Criação de materiais gráficos "
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "design-grafico-gestalt",
+    "nome": "Design gráfico com Gestalt: Desenvolva um projeto gráfico"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "design-grafico-conhecimento-de-impressao",
+    "nome": "Design Gráfico: Conhecimentos de impressão"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "design-grafico-elementos-identidade-visual",
+    "nome": "Design gráfico: Construindo os elementos de uma identidade visual"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "design-grafico-identidade-visual",
+    "nome": "Design gráfico: Desenvolvendo identidade visual"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "design-grafico-layouts-grids",
+    "nome": "Design Gráfico: Desenvolvendo layouts a partir dos grids"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "design-grafico-manual-identidade-visual",
+    "nome": "Design Gráfico: Desenvolvendo Manual de Identidade Visual"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "design-apresentacao",
+    "nome": "Design Gráfico: Design de apresentações"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "design-grafico-embalagens",
+    "nome": "Design gráfico: Design de embalagens"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "design-infografico",
+    "nome": "Design gráfico: Design de infográficos"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "design-patterns-dotnet",
+    "nome": "Design Patterns C# I: Boas práticas de programação"
+  },
+  {
+    "tempo_estimado": 24,
+    "slug": "design-patterns-2-dot-net",
+    "nome": "Design Patterns C# II: Boas práticas de programação"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "introducao-design-patterns-java",
+    "nome": "Design Patterns em Java I: Introdução às boas práticas de programação"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "avancando-design-patterns-java",
+    "nome": "Design Patterns em Java II: Avançando nas boas práticas de programação"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "php-design-pattern-comportamental",
+    "nome": "Design Patterns em PHP: Padrões comportamentais"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "php-design-pattern-criacional",
+    "nome": "Design Patterns em PHP: Padrões criacionais"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "php-design-pattern-estrutural",
+    "nome": "Design Patterns em PHP: Padrões estruturais"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "design-patterns-python",
+    "nome": "Design Patterns Python I: Boas práticas de programação"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "design-patterns-python-2",
+    "nome": "Design Patterns Python II: Boas práticas de programação"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "design-sprint",
+    "nome": "Design Sprint 2.0: Crie produtos digitais rapidamente"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "design-thinking-em-vendas",
+    "nome": "Design Thinking em vendas: conhecendo seu cliente"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "design-thinking-viabilizando-solucoes",
+    "nome": "Design Thinking: Viabilizando soluções"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "portfolio-design",
+    "nome": "Design: Desenvolvendo o seu portfólio"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "design-elementos-fundamentais-linguagem-visual",
+    "nome": "Design: Elementos fundamentais da linguagem visual"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "gestao-processos-diagnostico-necessidades",
+    "nome": "Diagnóstico em gestão de processos: Entendendo as necessidades"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "dns-como-servico-na-nuvem",
+    "nome": "DNS: Domine os serviços na nuvem"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "dns-resolucao-nomes-internet",
+    "nome": "DNS: Entenda a resolução de nomes na internet"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "docker-dca-finalizacao",
+    "nome": "Docker DCA: Finalize os estudos para a prova de certificação do Docker"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "docker-dca-introducao",
+    "nome": "Docker DCA: Inicie os estudos para a prova de certificação do Docker"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "docker-swarm-cluster-container",
+    "nome": "Docker Swarm: Orquestrador de containers"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "docker-e-docker-compose",
+    "nome": "Docker: Criando containers sem dor de cabeça"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "php-doctrine-mapeamento-objeto-relacional",
+    "nome": "Doctrine ORM: Acesse o banco com Mapeamento Objeto-Relacional"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "php-doctrine-mapeamento-banco-legado",
+    "nome": "Doctrine ORM: Mapeie um banco legado com XML"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "php-doctrine-indices-heranca-sql-nativo",
+    "nome": "Doctrine ORM: Use índices, SQL nativo, funções e stored procedures"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "inbound-marketing-introducao",
+    "nome": "E-mail marketing: da segmentação ao AB"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "edicao-de-podcasts",
+    "nome": "Edição de Podcast: da captação ao render"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "edicao-video-smartphone",
+    "nome": "Edição de Vídeo: Editando a partir do seu smartphone"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "habitos-eficazes",
+    "nome": "Eficácia parte 1: Hábitos para sua proatividade"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "habitos-eficazes-2",
+    "nome": "Eficácia parte 2: Hábitos para sua proatividade"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "ejb-jakarta-ee-api-rest-wildfly",
+    "nome": "EJB com Jakarta EE: API Rest com o servidor WildFly"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "elaboracao-contratos-empreendedor",
+    "nome": "Elaboração de contratos: Técnicas voltadas ao empreendedor"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "elasticsearch5",
+    "nome": "Elasticsearch 5: Pesquisas avançadas"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "elasticsearch-analise-consulta-dashboard",
+    "nome": "Elasticsearch: análise, consultas e dashboard"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "elasticsearch-introducao",
+    "nome": "Elasticsearch: Executando buscas inteligentes"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "elasticsearch",
+    "nome": "Elasticsearch: Pesquisando e analisando os seus dados"
+  },
+  {
+    "tempo_estimado": 15,
+    "slug": "electron",
+    "nome": "Electron: Crie aplicativos Desktop com as tecnologias da Web"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "email-marketing-responsivo-parte-1",
+    "nome": "Email Marketing Responsivo parte 1: sua newsletter adaptável"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "email-marketing-responsivo-parte-2",
+    "nome": "Email Marketing Responsivo parte 2: testando suas newsletters"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "empreendedorismo-abra-sua-empresa",
+    "nome": "Empreendedorismo: Abrindo sua empresa do jeito certo"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "empreendedorismo",
+    "nome": "Empreendedorismo: da ideia ao plano de negócios"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "assets",
+    "nome": "Endless Runner: Assets"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "criacao-de-cenario",
+    "nome": "Endless Runner: Cenário"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "endless-runner-hud",
+    "nome": "Endless Runner: criando um HUD"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "design-personagem",
+    "nome": "Endless Runner: Design de personagem"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "direcao-arte-games",
+    "nome": "Endless Runner: Direção de arte para games"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "endless-runner-splash-art",
+    "nome": "Endless Runner: splash art"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "engenharia-dados-introducao-data-pipelines",
+    "nome": "Engenharia de dados: Introdução a Data Pipelines"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "engenharia-dados-organizando-dados-aws",
+    "nome": "Engenharia de Dados: Organizando dados na AWS"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "engenharia-requisitos",
+    "nome": "Engenharia de Requisitos: como levantar, documentar e validar"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "engenharia-requisitos-demanda-gerenciamento",
+    "nome": "Engenharia de requisitos: Da demanda ao gerenciamento"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "entity-framework-core-banco-pre-existente-parte1",
+    "nome": "Entity Framework Core parte 1: Mapeando um banco pré-existente"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "entity-framework-core-banco-pre-existente-parte2",
+    "nome": "Entity Framework Core parte 2: Mapeando um banco pré-existente "
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "entity-framework-core",
+    "nome": "Entity Framework Core: Banco de dados de forma eficiente"
+  },
+  {
+    "tempo_estimado": 11,
+    "slug": "linq-c-sharp",
+    "nome": "Entity LinQ parte 1: Crie queries poderosas em C#"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "linq-c-sharp-parte-2",
+    "nome": "Entity LinQ parte 2: Store Procedures e consultas com o LinQPad"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "entrega-continua-confiabilidade-qualidade",
+    "nome": "Entrega Contínua: Confiabilidade e qualidade na implantação de software"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "e-commerce-como-escolher-transportadores",
+    "nome": "Entrega eficiente para seu e-commerce: como escolher transportadores"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "escalando-equipes-ageis-v2",
+    "nome": "Escalando equipes ágeis: como levar a agilidade adiante na organização"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "iot-detector-bluetooth-low-energy",
+    "nome": "Esp32: Detector de presença com Bluetooth Low Energy"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "estatistica-distribuicoes-e-medidas",
+    "nome": "Estatística com Python parte 1: Frequências e Medidas"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "estatistica-probabilidade-e-amostragem",
+    "nome": "Estatística com Python parte 2: Probabilidade e Amostragem"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "estatistica-testes-hipotestes",
+    "nome": "Estatística com Python parte 3: Testes de hipóteses"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "estatistica-correlacao-regressao",
+    "nome": "Estatística com Python parte 4: Correlação e Regressão"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "estatistica-r-correlacao-regressao",
+    "nome": "Estatística com R: Correlação e regressão"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "estatistica-r-frequencias-medidas",
+    "nome": "Estatística com R: Frequências e medidas"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "estatistica-introducao-modelagem",
+    "nome": "Estatística com R: Introdução à modelagem"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "estatistica-r-probabilidade-amostragem",
+    "nome": "Estatística com R: Probabilidade e amostragem"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "estatistica-r-testes-hipoteses",
+    "nome": "Estatística com R: Testes de hipóteses"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "customer-success-foco-no-cliente",
+    "nome": "Estratégias de Customer Success: Foco no cliente"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "estrategias-de-marketing",
+    "nome": "Estratégias de marketing: Lançamento de produto digital"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "estresse-trabalho",
+    "nome": "Estresse parte 1: buscando qualidade de vida"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "estresse-trabalho-equilibrio-no-estilo-de-vida",
+    "nome": "Estresse parte 2: Equilibre seu estilo de vida"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "estrutura-de-dados",
+    "nome": "Estrutura de Dados: Computação na prática com Java"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "business-intelligence-sql-server-e-integration-services",
+    "nome": "ETL com Integration Services: Modelo de dados"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "business-intelligence-sql-server-e-integration-services-parte2",
+    "nome": "ETL com Integration Services: Transformação de dados"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "excel-procv",
+    "nome": "Excel procv: lógica booleana e busca por valores"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "excel-vba-conexao-outlook-application",
+    "nome": "Excel VBA 3: Criando conexão com o Outlook Application"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "excel-vba-automatizacao-tarefas-diarias",
+    "nome": "Excel VBA: Automatize tarefas diárias mesmo não sendo programador"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "excel-vba-formularios-facilitar-entrada-dados-planilhas",
+    "nome": "Excel VBA: Criando Formulários para facilitar a entrada de dados nas planilhas"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "excel-criacao-de-macros-automacao-de-tarefas",
+    "nome": "Excel: Criação de macros e automatização de tarefas"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "excel-introducao",
+    "nome": "Excel: Domine o editor de planilhas"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "excel-vba-personalizacao-automacao-tarefas",
+    "nome": "Excel: Personalizando e automatizando tarefas com VBA"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "excel-simulacao-e-analise-de-cenarios",
+    "nome": "Excel: Simulação e análise de cenários"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "excel-tabelas-dinamicas",
+    "nome": "Excel: tabelas dinâmicas e dashboards"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "expressoes-regulares",
+    "nome": "Expressões regulares: Capturando textos de forma mágica"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "xp-extreme-programming",
+    "nome": "Extreme Programming: Metodologia de desenvolvimento ágil de software"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "facebook-ads",
+    "nome": "Facebook ADS: Crie anúncios que geram resultados"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "facebook-marketing-crie-pagina-atraia-encante-clientes",
+    "nome": "Facebook Marketing: Crie uma página que atraia e encante clientes"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "feedback",
+    "nome": "Feedback: a arte de orientar e ser orientado com sentido"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "ferramentas-agilidade-visao-sobre-controle-projetos-produtos",
+    "nome": "Ferramentas para agilidade: Visão geral sobre controle de projetos e produtos"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "figma-componentes-interface",
+    "nome": "Figma: Componentes da interface"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "figma-design-visual-site-mobile",
+    "nome": "Figma: Design visual de um site mobile"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "figma-refinamento-visual-interface",
+    "nome": "Figma: Refinando o visual da interface"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "figma-design-system",
+    "nome": "Figma: Trabalhando na construção de um Design System"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "filmora-x-edicao-videos-internet",
+    "nome": "Filmora X: Introdução à edição de vídeos para a internet"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "final-cut-pro-x-introducao-edicao-video",
+    "nome": "Final Cut Pro X: Descomplicando à edição de vídeo"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "final-cut-jornalistica",
+    "nome": "Final Cut: Editando matéria jornalistica"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "final-cut-introducao-edicao-video",
+    "nome": "Final Cut: Introdução a edição de vídeos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "final-cut-colorizacao",
+    "nome": "Final Cut: Processos de colorização e tratamento de imagem"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "firebase-authentication-apps-android",
+    "nome": "Firebase Authentication: Integração com Apps Android"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "firebase-android-cloud-storage",
+    "nome": "Firebase com Android: Armazene imagens com o Cloud Storage"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "firebase-android-push-notification-cloud-messaging",
+    "nome": "Firebase com Android: Push notification no Cloud Messaging"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "firebase-android-nosql-firestore",
+    "nome": "Firebase com Android: Salve os dados NoSQL no Firestore"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "flask-rotas-templates-autenticacao",
+    "nome": "Flask parte 1: Crie uma webapp com Python 3"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "flask-upload-persistencia-javascript-jquery",
+    "nome": "Flask parte 2: Avançando no desenvolvimento web"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "introducao-ao-flawless-execution",
+    "nome": "Flawless Execution parte 1: Introdução ao Framework de Gestão"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "aplicando-flawless-execution",
+    "nome": "Flawless Execution parte 2: Framework de Gestão"
+  },
+  {
+    "tempo_estimado": 9,
+    "slug": "posicione-elementos-com-flexbox",
+    "nome": "Flexbox: Posicione elementos na tela"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "flutter-web-api",
+    "nome": "Flutter com web API: integrando sua app mobile"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "flutter-i18n-internacionalizacao",
+    "nome": "Flutter i18n: Abordagens de internacionalização"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "flutter-criacao-validacao-formularios-aumentar-conversoes",
+    "nome": "Flutter: Crie e valide formulários para aumentar conversões"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "flutter-layout-aplicacao",
+    "nome": "Flutter: Desenvolva o layout para uma aplicação"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "flutter-firebase-crashlytics-relatorios-tempo-real",
+    "nome": "Flutter: Firebase Crashlytics, gere relatórios de erro em tempo real"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "flutter-gerenciamento-estados-provider",
+    "nome": "Flutter: Gerenciamento de Estados com Provider"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "flutter-bloc",
+    "nome": "Flutter: Streams de programação reativa com BLoC"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "foco-o-poder-do-habito-seu-dia-a-dia",
+    "nome": "Foco: Trazendo mais resultados para o dia a dia"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "django-validando-formularios",
+    "nome": "Formulários no Django 3: criando e validando dados"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "fotografia-digital-fundamentos",
+    "nome": "Fotografia Digital: Fundamentos"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "linguagem-fotografica",
+    "nome": "Fotografia: Descobrindo linguagem fotográfica"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "fotografia-para-celular-1",
+    "nome": "Fotografia: filtros e recursos de fotos no celular."
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "introducao-a-fotografia",
+    "nome": "Fotografia: introdução a composição"
+  },
+  {
+    "tempo_estimado": 7,
+    "slug": "fotografia-para-celular-2",
+    "nome": "Fotografia: Técnicas criativas e edição para celular"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "framer-prototipos-aplicativos",
+    "nome": "Framer: Criando protótipos de alta fidelidade para aplicativos"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "framer-ui-motion-microinteracoes",
+    "nome": "Framer: Trabalhando com UI Motion e microinterações"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "freelancer-estruture-seu-negocio",
+    "nome": "Freelancer parte 1: Estruture seu negócio"
+  },
+  {
+    "tempo_estimado": 2,
+    "slug": "freelancer-2",
+    "nome": "Freelancer parte 2: Profissionalize seu negócio"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "front-end-ui-paralaxe-carrossel",
+    "nome": "Front-end UI: Efeito paralaxe e carrossel"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "projeto-carreira-front-end",
+    "nome": "Front-end: Projeto de conclusão"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "excel-funcoes",
+    "nome": "Funções com Excel: operações matemáticas e filtros"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "fundamentos-da-cor",
+    "nome": "Fundamentos da cor: sistemas básicos e paletas"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "fundamentos-desprojetizacao-manifesto-noprojects",
+    "nome": "Fundamentos da Desprojetização: Manifesto NoProjects"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "fundamentos-ilustracao-desenho-referencia",
+    "nome": "Fundamentos da Ilustração: Desenhando com Referência"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "fundamentos-agilidade",
+    "nome": "Fundamentos de Agilidade: seus primeiros passos para a transformação ágil"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "desenho-acabamento-finalizacao",
+    "nome": "Fundamentos de desenho: Acabamento e finalização"
+  },
+  {
+    "tempo_estimado": 15,
+    "slug": "flutter-fundamentos",
+    "nome": "Fundamentos de Flutter: Crie o seu primeiro App"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "fundamentos-microsservicos-aprofundando-conceitos",
+    "nome": "Fundamentos de Microsserviços: Se aprofundando nos conceitos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "perspectiva",
+    "nome": "Fundamentos de Perspectiva: distorções visuais"
+  },
+  {
+    "tempo_estimado": 2,
+    "slug": "pixel-art-games",
+    "nome": "Fundamentos de pixel art: Criando um avatar"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "seo-primeiros-passos-ranqueamento-site-busca-organica",
+    "nome": "Fundamentos de SEO: Primeiros passos para ranquear seu site na Busca Orgânica"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "fundamentos-ux-entendendo-experiencia-usuario",
+    "nome": "Fundamentos de UX: Entenda a experiência de usuário"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "fundamentos-desenho-esboco-composicao",
+    "nome": "Fundamentos Desenho: Esboço e composição de imagens"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "fundamentos-javascript-arrays",
+    "nome": "Fundamentos do JavaScript: Arrays"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "fundamentos-javascript-objetos",
+    "nome": "Fundamentos do JavaScript: Objetos"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "fundamentos-javascript-tipos-variaveis-funcoes",
+    "nome": "Fundamentos do JavaScript: Tipos, variáveis e funções"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "storytelling-negocios-desenvolvimento-pessoal",
+    "nome": "Fundamentos do Storytelling: Visão de negócios e desenvolvimento pessoal"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "fundamentos-gestao-contratos-dicas-cuidados",
+    "nome": "Fundamentos para gestão de contratos: Dicas e cuidados gerais"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "qa-fundamentos",
+    "nome": "Fundamentos Quality Assurance: TestPlan e boas práticas"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "game-design",
+    "nome": "Game Design: Fundamentos e criação do GDD"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "geopandas-dados-geoespaciais",
+    "nome": "GeoPandas Parte 1: Trabalhando com dados Geoespaciais"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "geopandas-visualizacao-mapas-interativos",
+    "nome": "GeoPandas Parte 2: Visualização com mapas interativos"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "gestao-de-conflitos",
+    "nome": "Gerenciamento de conflitos: Técnicas fundamentais"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "gerenciamento-estresse-otimizacao-lideranca",
+    "nome": "Gerenciamento de estresse: Otimize sua liderança"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "gerenciamento-inovacao-organizacional",
+    "nome": "Gerenciamento de Inovação Organizacional parte 1: Fundamentos Essenciais"
+  },
+  {
+    "tempo_estimado": 11,
+    "slug": "gerenciamento-inovacao-aplicacoes-praticas",
+    "nome": "Gerenciamento de Inovação Organizacional parte 2: Aplicações Práticas"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "gerenciamento-qualidade-software-documento-mds",
+    "nome": "Gerenciamento de qualidade de software parte 1: O documento MDS"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "gestao-agil",
+    "nome": "Gestão Ágil: Liderando a mudança em um ambiente de agilidade"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "gestao-fornecedores-mobilizacao-acompanhamento-desmobilizacao",
+    "nome": "Gestão de fornecedores: Mobilização, acompanhamento e desmobilização"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "gestao-fornecedores-selecao-contratacao",
+    "nome": "Gestão de fornecedores: Seleção e contratação"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "gestao-produtos-aceleracao",
+    "nome": "Gestão de produtos digitais: Aceleração"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "gestao-produtos-priorizacao",
+    "nome": "Gestão de produtos digitais: Priorização"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "gestao-produtos-digitais-product-discovery",
+    "nome": "Gestão de produtos digitais: Product Discovery"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "gestao-produtos-digitais-produto-vs-projeto",
+    "nome": "Gestão de produtos digitais: Produto vs. Projeto"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "gestao-produtos-digitais-validacao",
+    "nome": "Gestão de produtos digitais: Validação"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "gimp-inkscape-composicoes-midias-sociais",
+    "nome": "GIMP e Inkscape: Criando composições para mídias sociais"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "gimp-inkscape-identidade-visual",
+    "nome": "GIMP e Inkscape: Criando peças para uma identidade visual"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "gimp-composicao-mesclagem-imagens",
+    "nome": "GIMP: Composição e mesclagem de imagens"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "gimp-edicao-tratamento-avancado-imagens",
+    "nome": "GIMP: Edição e tratamento avançado de imagens"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "gimp-edicao-tratamento-imagem-parte-2",
+    "nome": "GIMP: Edição e tratamento de imagens"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "gimp-edicao-tratamento-imagem",
+    "nome": "GIMP: Edição e tratamento de imagens para identidade visual"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "git-github-controle-de-versao",
+    "nome": "Git e Github: Controle e compartilhe seu código"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "git-github-branching-conflitos-pull-requests",
+    "nome": "Git e Github: Estratégias de ramificação, Conflitos e Pull Requests"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "gitlab-docker-integracao-continua",
+    "nome": "Gitlab CI e Docker: Pipeline de entrega contínua"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "go-lang-web",
+    "nome": "Go: Fundamentos de uma aplicação web"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "golang",
+    "nome": "Go: Iniciando com a linguagem do Google"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "go-lang-oo",
+    "nome": "Go: Orientação a Objetos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "google-ads-primeiras-campanhas",
+    "nome": "Google Ads: crie suas primeiras campanhas"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "google-analytics-metricas",
+    "nome": "Google Analytics parte 2: Dimensões e métricas"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "google-cloud-associate-engineer-certificacao-simulado",
+    "nome": "Google Associate Cloud Engineer: Simulado comentado"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "google-big-query-data-studio-projeto-final",
+    "nome": "Google BigQuery e Data Studio: Projeto final"
+  },
+  {
+    "tempo_estimado": 9,
+    "slug": "google-cloud-compute-engine",
+    "nome": "Google Cloud Compute Engine: Escalabilidade e alta disponibilidade"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "google-cloud-endpoints",
+    "nome": "Google Cloud Endpoints: Integrando a API"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "google-cloud-functions-codigo-serverless",
+    "nome": "Google Cloud Functions: Código Serverless"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "google-gke",
+    "nome": "Google Cloud Serverless: Crie aplicações robustas e escaláveis"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "google-cloud-storage",
+    "nome": "Google Cloud Storage: Armazenamento de objetos na Google Cloud"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "google-cloud-spring",
+    "nome": "Google Cloud: Deploy de uma aplicação em Spring MVC"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "google-data-studio-acessando-mysql",
+    "nome": "Google Data Studio: Acessando o MySQL"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "google-data-studio-filtros-funcoes",
+    "nome": "Google Data Studio: Filtros e funções"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "google-data-studio-introducao",
+    "nome": "Google Data Studio: Introdução à ferramenta"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "google-data-studio-parametros-big-query",
+    "nome": "Google Data Studio: Parâmetros e Big Query"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "google-kubernetes-engine-avancando-gke",
+    "nome": "Google Kubernetes Engine: Avançando com GKE"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "google-kubernetes-engine-primeiros-passos",
+    "nome": "Google Kubernetes Engine: Primeiros passos com GKE"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "governanca-ti-demandas-servicos",
+    "nome": "Governança de TI: Gestão de demandas de serviços"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "grafana-telegraf-monitoramento",
+    "nome": "Grafana e Telegraf: Monitoramento em tempo real"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "google-charts-criando-graficos-para-a-web",
+    "nome": "Gráficos na web parte 1: Criando e customizando gráficos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "google-charts-graficos-colunas-barras",
+    "nome": "Gráficos na web parte 2: Colunas e barras"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "google-charts-trabalhando-com-dados",
+    "nome": "Gráficos na web parte 3: trabalhando com mais tipos e fontes de dados"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "graphql-integrando-com-front-end",
+    "nome": "GraphQL parte 3: integrando com sua aplicação"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "graphql-construindo-api-apollo-server",
+    "nome": "GraphQL: Construindo uma API com Apollo Server"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "graphql-criacao-apis-prisma-2-nexus",
+    "nome": "GraphQL: Criação de APIs com Prisma 2 e Nexus"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "graphql-integracao-dados-relacionamentos",
+    "nome": "GraphQL: Integração de dados e relacionamentos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "introducao-growth-hacking",
+    "nome": "Growth Hacking: crescimento para negócios digitais"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "guia-estilos-paginas-componentes",
+    "nome": "Guia de estilos: Montando páginas com componentes"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "gulp",
+    "nome": "Gulp: automação de tarefas front-end"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "habitos-lideranca-boas-praticas",
+    "nome": "Hábitos na liderança: Boas práticas"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "habitos",
+    "nome": "Hábitos: da produtividade às metas pessoais"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "historia-quadrinho-composicao-narrativa",
+    "nome": "História em quadrinho: Composição e narrativa"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "historia-quadrinho-principio-narrativa-sequencial",
+    "nome": "História em quadrinho: Princípios de uma narrativa sequencial"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "hq-arte-final",
+    "nome": "História em Quadrinhos: Arte Final"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "historia-em-quadrinhos-roteiros",
+    "nome": "História em quadrinhos: Desenvolvendo roteiros"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "html5-css3-primeiros-passos",
+    "nome": "HTML5 e CSS3 parte 1: A primeira página da Web"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "html5-css3-posicionamento-listas-navegacao",
+    "nome": "HTML5 e CSS3 parte 2: Posicionamento, listas e navegação"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "html5-css3-formularios-tabelas",
+    "nome": "HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "html5-css3-avancando-css",
+    "nome": "HTML5 e CSS3 parte 4: Avançando no CSS"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "http-fundamentos",
+    "nome": "HTTP: Entendendo a web por baixo dos panos"
+  },
+  {
+    "tempo_estimado": 13,
+    "slug": "identidade-visual-parte-1-do-briefing-ate-um-logo-no-illustrator",
+    "nome": "Identidade Visual parte 1: Do Briefing a um logo em vetor no Illustrator"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "identidade-visual-parte-2-criando-um-sistema-visual-aplicacoes-a-partir-de-um-logo",
+    "nome": "Identidade Visual parte 2: Criando um sistema visual e aplicações a partir de um logo"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "identidade-visual-parte-3-elaborando-um-manual-de-marca",
+    "nome": "Identidade Visual parte 3: Elaborando o Conteúdo de um Manual de Marca no Illustrator"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "identidade-visual-parte-4-criando-um-manual-de-marca-no-indesign",
+    "nome": "Identidade Visual parte 4: Criando um manual de marca no InDesign"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "illustrator-finalizacao-e-apresentacao-de-personagem",
+    "nome": "Illustrator: Acabamento final de personagem publicitário"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "ilustracao-digital-anatomia-expressiva",
+    "nome": "Ilustração digital: Anatomia expressiva"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "ilustracao-digital-perspectiva-avancada",
+    "nome": "Ilustração digital: Avançando nos conceitos de perspectiva"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "ilustracao-digital-perspectiva-isometrica",
+    "nome": "Ilustração digital: Criando a partir da perspectiva isométrica"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "ilustracao-digital-assets-cenarios-jogos-isomericos",
+    "nome": "Ilustração Digital: Criando assets para cenários de jogos isoméricos"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "ilustracao-digital-cenario-isometrico-games",
+    "nome": "Ilustração digital: Criando cenários isométricos para games"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "ilustracao-digital-mapas-perspectiva-isometrica",
+    "nome": "Ilustração digital: Criando mapas com a perspectiva isométrica"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "Ilustracao-digital-personagens-perspectiva-isometrica",
+    "nome": "Ilustração digital: Criando personagens com perspectiva isométrica"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "ilustracao-digital-perspectiva-basica",
+    "nome": "Ilustração digital: Perspectiva básica"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "inbound-marketing-fundamentos",
+    "nome": "Inbound Marketing parte 1: Fundamentos e ações"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "inbound-marketing-automacao",
+    "nome": "Inbound Marketing parte 2: Processos de automação"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "indesign-escala-grande",
+    "nome": "Indesign: Diagramação em grande escala"
+  },
+  {
+    "tempo_estimado": 3,
+    "slug": "indesign-pequena-escala",
+    "nome": "Indesign: Diagramação em pequena escala"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "kpis-ecommerce",
+    "nome": "Indicadores de e-commerce parte 1: Monitore o desempenho da sua loja"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "kpis-ecommerce-aprofundando",
+    "nome": "Indicadores de e-commerce parte 2: Aprofundando em métricas do negócio"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "kpis-ecommerce-monitoramento",
+    "nome": "Indicadores de e-commerce parte 3: Métricas Avançadas"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "inkscape-graficos-objetos-3d",
+    "nome": "Inkscape: Construindo gráficos e objetos 3D"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "inkscape-identidade-visual",
+    "nome": "Inkscape: Desenvolvendo uma identidade visual"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "inkscape-vetor-bezier-simulacoes",
+    "nome": "Inkscape: Vetorizando com a ferramenta Bezier e criando simulações"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "desenvolvimento-software-integracao-continua",
+    "nome": "Integração Contínua: Mais qualidade e menos risco no desenvolvimento"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "integracao-modelos-django-2",
+    "nome": "Integração de modelos no Django 3: Filtros, buscas e admin"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "integridade-corporativa-decisoes-eticas-ambientes-empresariais",
+    "nome": "Integridade Corporativa: Tomada de decisões éticas em ambientes empresariais"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "inteligencia-ecommerce",
+    "nome": "Inteligência comercial: Aumente a competitividade do seu e-commerce"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "inteligencia-emocional-aumentando-potencial-lideranca",
+    "nome": "Inteligência emocional: Aumente seu potencial de liderança"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "inteligencia-emocional",
+    "nome": "Inteligência Emocional: Práticas para o cotidiano"
+  },
+  {
+    "tempo_estimado": 9,
+    "slug": "intellij-idea-truques-para-aumentar-sua-produtividade-em-projetos-java",
+    "nome": "IntelliJ IDEA: aumente a sua produtividade em projetos Java"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "iot-assistente-pessoal-python",
+    "nome": "Internet das coisas: Seu assistente pessoal em Python"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "firewall-asa-introducao",
+    "nome": "Introdução á configuração de segurança: Firewall ASA"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "analise-de-experimentos",
+    "nome": "Introdução à experimentação: Análise de experimentos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "adobe-lightroom-gerenciamento-tratamento-fotos",
+    "nome": "Introdução ao Adobe Lightroom: Gerenciamento e tratamento de múltiplas fotos"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "introducao-photoshop-conceitos-essenciais",
+    "nome": "Introdução ao Adobe Photoshop: Conceitos essenciais"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "blender-modelagem-poligonal",
+    "nome": "Introdução ao Blender 2.8: Modelagem poligonal"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "introducao-canva-criando-material-grafico-podcast",
+    "nome": "Introdução ao Canva: Criando o material gráfico para um podcast"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "introducao-ao-datomic",
+    "nome": "Introdução ao Datomic: Um banco cronológico"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "fundamentos-django-2",
+    "nome": "Introdução ao Django 3: Modelo, Rotas e Views"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "php-primeiros-passos",
+    "nome": "Introdução ao PHP: Primeiros passos com a linguagem"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "introducao-protopie-prototipacao-microinteracoes",
+    "nome": "Introdução ao ProtoPie: Prototipação e microinterações"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "mysql-manipule-dados-com-sql",
+    "nome": "Introdução ao SQL com MySQL: Manipule e consulte dados"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "oracle-database-sql-dml",
+    "nome": "Introdução ao SQL com Oracle: Manipule e consulte dados"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "ios-animacoes",
+    "nome": "iOS Animações: Core animation e transições"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "iosbrasil",
+    "nome": "iOS Brasil : Formate datas, cpf e números nacionais"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "ios-swiftui-scrollview-navigation-bar-componentes",
+    "nome": "iOS SwiftUI: ScrollView, Navigation Bar e componentes"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "ios-auto-layout-constraints",
+    "nome": "IOS: Auto layout com constraints"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "swift-ui",
+    "nome": "iOS: Layouts com SwiftUI"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "ios-testes-com-mock",
+    "nome": "iOS: Testando comportamentos com mocks"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "java-brasil-lidando-com-datas-numeros-documentos",
+    "nome": "Java Brasil: Formate datas, cpf e números nacionais"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "java-collections",
+    "nome": "Java Collections: Dominando Listas, Sets e Mapas"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "java-debug",
+    "nome": "Java Debug: técnicas para entender e melhorar o seu código"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "java-clean-architecture",
+    "nome": "Java e Clean Architecture: Descomplicando arquitetura de software"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "java-domain-driven-design-conceitos",
+    "nome": "Java e Domain Driven Design: Apresentando os conceitos"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "java-trabalhando-com-io",
+    "nome": "Java e java.io: Streams, Reader e Writers"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "java-pacotes-e-java-lang",
+    "nome": "Java e java.lang: Programe com a classe Object e String"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "java-util-lambdas",
+    "nome": "Java e java.util: Coleções, Wrappers e Lambda expressions"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "jdbc-dao-persistencia",
+    "nome": "Java e JDBC: Trabalhando com um banco de dados"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "java-jpa-consultas-avancadas-performance-modelos-complexos",
+    "nome": "Java e JPA: Consultas avançadas, performance e modelos complexos"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "criando-uma-webapp-com-java-e-mongodb",
+    "nome": "Java e MongoDB: Integre uma webapp Java com um banco NoSQL"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "java-supersonico-subatomico-quarkus",
+    "nome": "Java e Quarkus: Supersônico e Subatômico"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "xml-java",
+    "nome": "Java e XML: integração, parsing e validação"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "java-ee-webapp",
+    "nome": "Java EE parte 1: Crie sua loja online com CDI, JSF, JPA"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "java-ee-webapp-2",
+    "nome": "Java EE parte 2: Sua loja online com HTML, REST e Cache"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "java-ee-webapp-3",
+    "nome": "Java EE parte 3: Finalizando sua loja com REST, JMS, JAAS e WebSockets"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "java-excecoes",
+    "nome": "Java Exceções: Aprenda a criar, lançar e controlar exceções"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "java-primeiros-passos",
+    "nome": "Java JRE e JDK: Escreva o seu primeiro código com Eclipse"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "java8-lambdas",
+    "nome": "Java moderno: Tire proveito dos novos recursos do Java 8"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "java-introducao-orientacao-objetos",
+    "nome": "Java OO: Introdução à Orientação a Objetos"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "java-heranca-interfaces-polimorfismo",
+    "nome": "Java Polimorfismo: Entenda herança e interfaces"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "java-reflection-meta-programacao",
+    "nome": "Java Reflection parte 1: Entendendo a metaprogramação"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "java-reflection-anotacoes-injecao-dependencia",
+    "nome": "Java Reflection parte 2: Anotações e Injeção de Dependências"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "servlet-autenticacao-autorizacao-mvc",
+    "nome": "Java Servlet: Autenticação, autorização e o padrão MVC"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "servlets-fundamentos-programacao-web-java",
+    "nome": "Java Servlet: Fundamentos da programação web Java"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "javascript-web-validacao-formularios-html5",
+    "nome": "JavaScript na Web: Validação de Formulários e HTML5"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "javascript-es6-orientacao-a-objetos-parte-2",
+    "nome": "JavaScript: Aprofundando em MVC, padrão Proxy e Factory"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "javascript-es6-orientacao-a-objetos-parte-1",
+    "nome": "JavaScript: Conhecendo o Browser e padrões de projeto"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "javascript-padroes-abordagem-funcional",
+    "nome": "JavaScript: De padrões a uma abordagem funcional"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "javascript-desenvolvedor-poliglota",
+    "nome": "JavaScript: Desenvolvedor poliglota"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "javascript-polimorfismo",
+    "nome": "JavaScript: Interfaces e Herança em Orientação a Objetos"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "javascript-introducao",
+    "nome": "JavaScript: primeiros passos com a linguagem"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "javascritpt-orientacao-objetos",
+    "nome": "JavaScript: Programando a Orientação a Objetos"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "javascript-programando-na-linguagem-web",
+    "nome": "JavaScript: Programando na linguagem da web"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "projeto-carreira-javascript",
+    "nome": "JavaScript: Projeto de conclusão"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "javascript-es6-orientacao-a-objetos-parte-3",
+    "nome": "JavaScript: Salvando dados localmente com IndexedDB"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "webservices-rest-com-jaxrs-e-jersey",
+    "nome": "JAX-RS e Jersey : Domine a criação de webservices REST"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "web-services-soap",
+    "nome": "JAX-WS : Domine a criação de webservices SOAP"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "pipeline-ci-jenkins-docker",
+    "nome": "Jenkins e Docker: Pipeline de entrega continua"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "jenkins-integracao-continua",
+    "nome": "Jenkins: Integração contínua"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "jms",
+    "nome": "JMS e ActiveMQ: Mensageria com Java"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "pong-javascript",
+    "nome": "Jogos clássicos parte 1: Iniciando no Javascript com Pong"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "javascript-listas-lacos",
+    "nome": "Jogos clássicos parte 2: laços e listas com Javascript"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "jquery-a-biblioteca-do-mercado-parte-2",
+    "nome": "jQuery: Avance na biblioteca mais popular do mercado parte 2"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "jquery-a-biblioteca-do-mercado",
+    "nome": "jQuery: Domine a biblioteca mais popular do mercado parte 1"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "js-web-armazenando-dados-navegador",
+    "nome": "JS na Web: Armazenando dados no navegador"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "javascript-crud-assincrono",
+    "nome": "JS na web: CRUD com JavaScript assíncrono"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "javascript-manipulacao-dom",
+    "nome": "JS na Web: Manipule o DOM com JavaScript"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "kafka-batches-correlation-ids-e-dead-letters",
+    "nome": "Kafka: Batches, correlation ids e dead letters"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "kafka-cluster-de-microservicos",
+    "nome": "Kafka: Fast delegate, evolução e cluster de brokers"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "kafka-idempotencia-e-garantias",
+    "nome": "Kafka: Idempotência e garantias"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "kafka-introducao-a-streams-em-microservicos",
+    "nome": "Kafka: Produtores, Consumidores e streams"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "kanban-primeiros-passos",
+    "nome": "Kanban parte 1: Fundamentos Essenciais"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "kanban-avancado",
+    "nome": "Kanban parte 2: Métricas e Práticas Avançadas"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "kotlin-collections-set-map",
+    "nome": "Kotlin Collections: Set e Map"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "android-com-kotlin-parte-1",
+    "nome": "Kotlin parte 1: Sua primeira app android na linguagem"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "android-com-kotlin-parte-2",
+    "nome": "Kotlin parte 2: Mais recursos da linguagem e boas práticas"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "android-kotlin-parte-3",
+    "nome": "Kotlin parte 3: Técnicas avançadas na sua app"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "kotlin-introducao-collections-arrays-listas",
+    "nome": "Kotlin: Desenvolva com coleções, arrays e listas"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "kotlin-heranca-polimorfismo-interface",
+    "nome": "Kotlin: herança, polimorfismo e Interface"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "kotlin-exceptions-null-safety",
+    "nome": "Kotlin: lidando com exceptions e referências nulas"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "kotlin-orientacao-objetos",
+    "nome": "Kotlin: primeiros passos e Orientação a Objetos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "kotlin-recursos-da-linguagem-com-pacotes-e-composicao",
+    "nome": "Kotlin: recursos da linguagem com pacotes e composição"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "kotlin-recursos-do-paradigma-funcional",
+    "nome": "Kotlin: recursos do paradigma funcional"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "krita-cenario-animado",
+    "nome": "Krita: Criando um cenário animado"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "introducao-krita-pintura-digital",
+    "nome": "Krita: Desenvolvendo uma pintura digital"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "krita-ilustracao-editorial",
+    "nome": "Krita: Ilustração editorial"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "krita-refinamento-processo-pintura",
+    "nome": "Krita: Refinando o processo de pintura"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "kubernetes-digital-ocean",
+    "nome": "Kubernetes na Digital Ocean: Gerenciando aplicações conteinerizadas"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "kubernetes-deployments-volumes-escalabilidade",
+    "nome": "Kubernetes: Deployments, Volumes e Escalabilidade"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "kubernetes-pods-services-configmap",
+    "nome": "Kubernetes: Pods, Services e ConfigMaps"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "laravel-produtividade-desenvolvimento-web",
+    "nome": "Laravel parte 1: Produtividade no desenvolvimento web"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "laravel-autenticacao-relacionamentos-testes",
+    "nome": "Laravel parte 2: Trabalhando com Autenticação, Relacionamentos e Testes"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "laravel-eventos-filas-upload-email",
+    "nome": "Laravel parte 3: Eventos, filas, upload e e-mail"
+  },
+  {
+    "tempo_estimado": 15,
+    "slug": "layout-android-1",
+    "nome": "Layouts Android parte 1: Criando telas com Constraint Layouts."
+  },
+  {
+    "tempo_estimado": 17,
+    "slug": "layout-android-2",
+    "nome": "Layouts Android parte 2: Boas práticas para criação de telas."
+  },
+  {
+    "tempo_estimado": 7,
+    "slug": "mobile-first-layouts-responsivos",
+    "nome": "Layouts Responsivos: Trabalhando com layouts mobile"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "lean-agile-budgeting-principios-orcamentacao",
+    "nome": "Lean Agile Budgeting: Princípios para a orçamentação eficaz na era digital"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "lean-inbound-fundamentos",
+    "nome": "Lean Inbound Parte 1: Fundamentos de marketing e vendas para novos negócios"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "lean-inbound-na-pratica",
+    "nome": "Lean Inbound Parte 2: Práticas de validação, marketing e vendas"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "lean-inception-definicao-mvp",
+    "nome": "Lean Inception: Método para definição de MVPs"
+  },
+  {
+    "tempo_estimado": 1,
+    "slug": "lean",
+    "nome": "Lean Startup: Primeiros passos da sua startup enxuta"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "less-css-simples-e-produtivo",
+    "nome": "LESS: CSS simples e produtivo"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "lgpd-visao-impactos",
+    "nome": "LGPD: Conhecendo e entendendo seus impactos"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "lideranca-ambidestra-inovacao-resultados",
+    "nome": "Liderança Ambidestra: Buscando inovação e resultados"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "lideranca-pratica-gestao-melhorias",
+    "nome": "Liderança: Práticas de gestão e melhorias"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "introducao-a-nlp-com-analise-de-sentimento",
+    "nome": "Linguagem Natural parte 1: Introdução a NLP com análise de sentimento"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "nlp-com-analise-de-sentimento",
+    "nome": "Linguagem Natural parte 2: Continuando com a análise de sentimento"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "linkedin-ads",
+    "nome": "LinkedIn Ads: Novos clientes com anúncios otimizados e emails patrocinados"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "linux-ubuntu",
+    "nome": "Linux I: Conhecendo e utilizando o terminal"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "linux-ubuntu-processos",
+    "nome": "Linux II: Programas, processos e pacotes"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "logica-programacao-javascript-html",
+    "nome": "Lógica de programação I: Os primeiros programas com Javascript e HTML"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "logica-programacao-pratica-com-desenho-animacoes-em-jogo",
+    "nome": "Lógica de programação II: pratique com desenhos, animações e um jogo"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "desenvolvimento-de-jogos-com-lua",
+    "nome": "Lua parte 1: Crie um jogo de RPG em 2D"
+  },
+  {
+    "tempo_estimado": 13,
+    "slug": "lua-criando-mapas-e-ataques",
+    "nome": "Lua parte 2: Mapas, ataques e inimigos mais complexos"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "lua-do-zero-ao-jogo-com-love2d",
+    "nome": "Lua: do zero ao jogo"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "php-micro-framework-lumen-api-rest",
+    "nome": "Lumen: API Rest com o Micro-framework do Laravel"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "machine-learning-com-r-classificacao-de-focos-de-dengue",
+    "nome": "Machine learning com R: Classificação de focos de dengue"
+  },
+  {
+    "tempo_estimado": 9,
+    "slug": "machine-learning-otimizacao-de-modelos-atraves-de-hiperparametros",
+    "nome": "Machine Learning parte 1: Otimização de modelos através de hiperparâmetros"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "machine-learning-otimizacao-com-exploracao-aleatoria",
+    "nome": "Machine Learning parte 2: Otimização com exploração aleatória"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "machine-learning-classificacao-ii",
+    "nome": "Machine Learning: Avançando com tipos diferentes de classificação"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "introducao-a-machine-learning-com-classificacao",
+    "nome": "Machine Learning: Classificação por trás dos panos"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "machine-learning-cluster-r",
+    "nome": "Machine Learning: Cluster com R"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "machine-learning-credit-scoring",
+    "nome": "Machine Learning: Credit Scoring"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "introducao-a-sistemas-de-recomendacao-com-python",
+    "nome": "Machine Learning: Intro a sistemas de recomendação em Python"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "machine-learning-introducao-a-classificacao-com-sklearn",
+    "nome": "Machine Learning: Introdução a classificação com SKLearn"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "reducao-dimensionalidade",
+    "nome": "Machine Learning: Lidando com dados de muitas dimensões"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "machine-learning-validando-modelos",
+    "nome": "Machine Learning: Validação de modelos"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "magento-customizacao-tema",
+    "nome": "Magento: Customização de um tema"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "magento-primeiros-passos-gerenciamento-loja",
+    "nome": "Magento: Primeiros passos no gerenciamento de uma loja"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "oracle-dml-manipulacao-de-dados",
+    "nome": "Manipulação de dados no Oracle: Comandos DML"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "manipulacao-fotografica",
+    "nome": "Manipulação Fotográfica: Construa imagens publicitárias "
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "maratona-de-programacao",
+    "nome": "Maratona de programação: Algoritmos para sua primeira competição"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "maratona-de-programacao-introducao-e-boas-praticas-de-um-programador-maratonista",
+    "nome": "Maratona de Programação: introdução e boas práticas de um programador maratonista"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "desenvolvimento-pessoal-como-marca",
+    "nome": "Marca pessoal: fazendo seus negócios darem certo"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "marketing-influenciadores",
+    "nome": "Marketing com Influenciadores: campanha de marketing com os creators"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "marketing-digital-analise-metricas",
+    "nome": "Marketing Digital: Análise de métricas"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "fundamentos-market-digital",
+    "nome": "Marketing digital: Fundamentos para seu planejamento on-line"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "marketing-viral",
+    "nome": "Marketing Viral: os elementos que podem promover a sua ação digital"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "marketplaces-primeiros-passos",
+    "nome": "Marketplaces: primeiros passos e estratégias de venda"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "marmoset-substance-bakes-mapas-jogos",
+    "nome": "Marmoset e Substance: Bakes de mapas para jogos"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "matematica-financeira-cpa-cea",
+    "nome": "Matemática financeira: CPA e CEA"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "algebrea-linear-e-vetores-no-r3",
+    "nome": "Matemática: álgebra linear e vetores no R3"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "limites",
+    "nome": "Matemática: Continuidade de funções e seus limites"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "matematica-derivadas-rn",
+    "nome": "Matemática: derivadas no Rn"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "matematica-espacos-e-subespacos-vetoriais",
+    "nome": "Matemática: espaços e subespaços vetoriais"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "funcoes",
+    "nome": "Matemática: Funções e seus usos"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "algebra-linear-vetores",
+    "nome": "Matemática: iniciando em álgebra linear e vetores"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "derivadas",
+    "nome": "Matemática: Introdução ao cálculo de derivadas"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "integrais",
+    "nome": "Matemática: Introdução ao cálculo de integrais"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "introducao-a-matrizes",
+    "nome": "Matemática: Operações com Matrizes"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "equacoes-algebricas-lineares",
+    "nome": "Matemática: sistemas de equações algébricas lineares"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "maven-gerenciamento-dependencias-build-aplicacoes-java",
+    "nome": "Maven: Gerenciamento de dependências e build de aplicações Java"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "mean-javascript",
+    "nome": "MEAN Stack: criando aplicações completas com Javascript"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "mediacao-conflitos-solucoes-efetivas",
+    "nome": "Mediação de conflitos: Construa soluções efetivas"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "mentalidade-crescimento-potencializando-carreira",
+    "nome": "Mentalidade de crescimento: Potencializando sua carreira"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "mentoria-desenvolvendo-pessoas-compartilhando-experiencias",
+    "nome": "Mentoria: Desenvolvendo pessoas e compartilhando experiências"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "metaprogramacao-php-api-reflection",
+    "nome": "Metaprogramação com PHP: API de Reflection"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "metricas-empresas-ageis",
+    "nome": "Métricas ágeis: como medir resultados em um ambiente ágil"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "microservices-spring-cloud-circuit-breaker-api-gateway",
+    "nome": "Microservices com Spring Cloud: Circuit Breaker, Hystrix e API Gateway"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "microservices-spring-cloud-service-registry-config-server",
+    "nome": "Microservices com Spring Cloud: Registry, Config Server e Distributed Tracing"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "Microsoft-az-900-parte-1-azure-fundamentals",
+    "nome": "Microsoft AZ-900 parte 1: Azure Fundamentals"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "microsoft-az-900-parte-2-azure-fundamentals",
+    "nome": "Microsoft AZ-900 parte 2: Azure Fundamentals"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "microsoft-az-900-parte-3-azure-fundamentals",
+    "nome": "Microsoft AZ-900 parte 3: Azure Fundamentals"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "microsoft-az-900-parte-4-azure-fundamentals",
+    "nome": "Microsoft AZ-900 parte 4: Azure Fundamentals"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "microsoft-az-900-azure-fundamentals-simulado",
+    "nome": "Microsoft AZ-900: Simulado comentado"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "microsservicos-padroes-projeto",
+    "nome": "Microsserviços: Padrões de projeto"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "midia-paga-otimizacoes-aprofundamentos-google-ads",
+    "nome": "Mídia Paga: Otimizações e aprofundamentos no Google Ads"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "estrategias-midias-sociais",
+    "nome": "Mídias Sociais: Estratégias para engajar o público"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "mindset-digital-tecnicas-habilidades-lideranca-remota",
+    "nome": "Mindset digital: Técnicas e habilidades para liderança remota"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "minecraft-estruturas-logicas-redstone",
+    "nome": "Minecraft: Estruturas lógicas com redstone"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "mlflow-gestao-ciclo-vidas-modelos-ml",
+    "nome": "MLflow: Gestão do ciclo de vidas de modelos de ML"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "mlops-deploy-modelos",
+    "nome": "MLOps: Deploy de modelos"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "mlops-machine-learning-e-apis",
+    "nome": "MLOps: Machine Learning e APIs"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "mobile-marketing-engajar-cliente",
+    "nome": "Mobile Marketing: Como engajar seu cliente"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "csharp-testes-de-integracao-com-xunit-e-moq",
+    "nome": "Mocks em C#: Testes de Integração com xUnit e Moq"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "mocks-java-mockito",
+    "nome": "Mocks em Java: Conhecendo o Mockito"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "php-mocks",
+    "nome": "Mocks em PHP: Entenda os dublês de testes"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "modelagem-banco-relacional-entidade-relacionamento-modelo-relacional",
+    "nome": "Modelagem de banco de dados relacional: Diagrama ER e Modelo Relacional"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "modelagem-banco-relacional-sql",
+    "nome": "Modelagem de banco de dados relacional: Entendendo SQL"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "modelagem-banco-relacional-entidade-relacionamento-atributo",
+    "nome": "Modelagem de banco de dados relacional: Entidades, relacionamentos e atributos"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "modelagem-banco-relacional-algebra-relacional-sql",
+    "nome": "Modelagem de banco de dados relacional: Modelo e Álgebra Relacional"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "modelagem-banco-relacional-normalizacao",
+    "nome": "Modelagem de banco de dados relacional: Normalização"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "modelagem-banco-nosql",
+    "nome": "Modelagem de banco de dados: Começando com NoSQL"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "mongodb-fundamentos-modelagem",
+    "nome": "Modelagem MongoDB: relacionamentos e cardinalidade"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "pentaho-data-integration-modelos-etl",
+    "nome": "Modelos de ETL: Pentaho Data Integration"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "modelos-de-gestao-componentes-essenciais",
+    "nome": "Modelos de Gestão parte 1: Componentes Essenciais"
+  },
+  {
+    "tempo_estimado": 3,
+    "slug": "modelos-matematicos-funcao-rn",
+    "nome": "Modelos Matemáticos: usando Funções no R^n"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "modelos-preditivos-deteccao-fraude",
+    "nome": "Modelos preditivos em dados: detecção de fraude"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "mongodb-modelagem-dados",
+    "nome": "MongoDB: Modelagem de dados"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "mongodb",
+    "nome": "MongoDB: Uma alternativa aos bancos relacionais tradicionais"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "ms-project-planejamento-cronogramas",
+    "nome": "MS Project: Planejando cronogramas de projeto"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "php-model-view-controller",
+    "nome": "MVC com PHP: Entenda o padrão Model-View-Controller"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "mysql-json-persistencia",
+    "nome": "MySQL e JSON: Persistindo JSON de maneira eficiente"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "android-navigation",
+    "nome": "Navigation parte 1: Transição de telas no Android."
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "android-navigation-features",
+    "nome": "Navigation parte 2: Novas features e reutilização de código"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "negociacao-lideres-habilidade-bons-acordos",
+    "nome": "Negociação para líderes: Desenvolva a habilidade e consiga bons acordos"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "negociacao-praticas-essenciais",
+    "nome": "Negociação parte 1: Práticas Essenciais"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "negociacao-avancada",
+    "nome": "Negociação parte 2: Técnicas Avançadas"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "nestjs-api-rest-typescript",
+    "nome": "NestJS: Criando uma API Rest com TypeScript"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "networking",
+    "nome": "Networking: Potencialize oportunidades"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "newsletter-estrategia-primeiras-assinaturas",
+    "nome": "Newsletter: Da estratégia às primeiras assinaturas"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "nginx-parte-2-performance-fastcgi-https",
+    "nome": "NGINX Parte 2: Performance, FastCGI e HTTPS"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "nginx-servidor-web-proxy-reverso-api-gateway",
+    "nome": "NGINX: Servidor Web, Proxy Reverso e API Gateway"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "nlp-modelos-linguagem",
+    "nome": "NLP: Introdução a regex e modelos de linguagem"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "node-jwt-autenticacao-tokens",
+    "nome": "Node.js e JWT: autenticação com tokens"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "nodejs-refresh-tokens-confirmacao-cadastro",
+    "nome": "Node.js: Refresh Tokens e confirmação de cadastro"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "nodejs-adicionando-ci-projeto-deploy-google-cloud",
+    "nome": "NodeJS: Adicionando CI ao projeto e deploy no Google Cloud"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "nodejs-api-rest-controle-versao",
+    "nome": "NodeJS: Avançando em APIs REST com controle de versões"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "nodejs-controle-acesso-autorizacao-rbac",
+    "nome": "NodeJS: Controle de acesso e autorização com RBAC"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "nodejs-api-rest-padronizada-escalavel",
+    "nome": "NodeJS: Crie uma API REST padronizada e escalável"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "nodejs-streaming-dados",
+    "nome": "NodeJS: Streaming de dados e Repositório"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "iot-com-nodemcu",
+    "nome": "NodeMcu e Esp8266: Medindo e publicando dados com MQTT"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "robotica-brinquedo-interativo",
+    "nome": "NodeMcu e Esp8266: Monte um brinquedo interativo para seu Pet"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "csharp-7-tuplas-refs",
+    "nome": "Novidades do C# 7.3: igualdade em tuplas, expression variables e refs"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "java-novidades-novos-recursos",
+    "nome": "Novidades do Java: Produtividade com novos recursos"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "primeiro-pilar-ecommerce-planejamento",
+    "nome": "O Primeiro Pilar do E-commerce: planejamento de sua loja online"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "object-calisthenics-exercitando-orientacao-objetos",
+    "nome": "Object Calisthenics: Exercitando a Orientação a Objetos"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "objective-c",
+    "nome": "Objective-C: programando para iPhone e iPad"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "okr-construindo-metas-ageis",
+    "nome": "OKR: Construindo metas ágeis"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "okr-direcionando-negocio-resultados",
+    "nome": "OKR: Direcionando seu negócio para resultados"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "olap-com-pentaho-construcao-data-mart",
+    "nome": "OLAP com Pentaho: Construção do Data Mart"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "business-intelligence-olap-sql-server",
+    "nome": "OLAP com SQL Server: Construção do Data Warehouse"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "oracle-plsql-dominando-packages",
+    "nome": "Oracle PL/SQL: Dominando packages"
+  },
+  {
+    "tempo_estimado": 18,
+    "slug": "oracle-plsql-procedures-funcoes-excecoes",
+    "nome": "Oracle PL/SQL: Procedures, funções e exceções"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "oratoria-lideres-comunicacao-profissional",
+    "nome": "Oratória para líderes: Como se comunicar profissionalmente"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "oratoria-compartilhe-ideias",
+    "nome": "Oratória parte 1: Compartilhe ideias e histórias"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "oratoria-apresentacoes-em-publico",
+    "nome": "Oratória parte 2: Apresentações em público"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "organizando-equipes-ageis",
+    "nome": "Organização de equipes ágeis: Os papéis existentes em uma equipe"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "c-plus-plus-orientacao-objetos-classes-metodos-atributos",
+    "nome": "Orientação a Objetos com C++: Classes, métodos e atributos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "c-plus-plus-orientacao-objetos-heranca",
+    "nome": "Orientação a Objetos com C++: Trabalhando com herança"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "php-oo-classes-metodos-atributos",
+    "nome": "Orientação a Objetos com PHP: Classes, métodos e atributos"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "orm-nodejs-api-sequelize-mysql",
+    "nome": "ORM com NodeJS: API com Sequelize e MySQL"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "orm-nodejs-avancando-sequelize",
+    "nome": "ORM com NodeJS: Avançando nas funcionalidades do Sequelize"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "pilares-do-ecommerce-sistemas-integracoes-equipe",
+    "nome": "Os Pilares do E-commerce: Sistemas, Integrações e Equipe"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "otimizando-gestao-processos-monitoracao-controle",
+    "nome": "Otimizando a Gestão de Processos: Monitoração e controle"
+  },
+  {
+    "tempo_estimado": 7,
+    "slug": "outbound-marketing-pre-vendas",
+    "nome": "Outbound Marketing: Pré-vendas de alta performance"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "owasp10-a5-broken-access-control",
+    "nome": "OWASP Top 10: de Injections a Broken Access Control"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "owasp-top10-security-misconfiguration-logging",
+    "nome": "OWASP Top 10: Security misconfiguration, logging e monitoramento"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "owasp-clojure",
+    "nome": "OWASP: Melhorando a segurança com Clojure"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "owasp-application-security-verification-standard",
+    "nome": "OWASP: Padrão de verificação de segurança de aplicações"
+  },
+  {
+    "tempo_estimado": 7,
+    "slug": "owasp-security-verification-standard-v5-a-v8",
+    "nome": "OWASP: Padrão de verificação de segurança de aplicações V5 a V8"
+  },
+  {
+    "tempo_estimado": 7,
+    "slug": "owasp-application-security-verification-standard-v9-a-v14",
+    "nome": "OWASP: Padrão de verificação de segurança de aplicações V9 a V14"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "python-pygame-pacman-cenario-ator",
+    "nome": "Pacman com Python e Pygame: Cenário e ator"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "python-pygame-pacman-colisao-pontuacao",
+    "nome": "Pacman com Python e Pygame: Colisão e pontuação"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "pandas-io",
+    "nome": "Pandas: Formatos diferentes de entrada e saída (IO)"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "otimizacao-performance-web",
+    "nome": "Performance Web I: otimizando o front-end"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "performance-http2-critical-path",
+    "nome": "Performance Web II: Critical Path, HTTP/2 e Resource Hints"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "flutter-persistencia-interna",
+    "nome": "Persistência com Flutter: Crie um app com armazenamento interno"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "persistencia-jpa-introducao-hibernate",
+    "nome": "Persistência com JPA: Introdução ao Hibernate"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "personal-branding",
+    "nome": "Personal Branding: Entenda o que é e como você pode usá-la a favor da sua carreira"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "pesquisa-etnografica-planejamento-implementacao-resultados",
+    "nome": "Pesquisa etnográfica: Do planejamento à implementação dos resultados"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "photoshop-illustrator-identidade-publicitaria",
+    "nome": "Photoshop e Illustrator: Unificando a identidade visual em peças publicitárias"
+  },
+  {
+    "tempo_estimado": 15,
+    "slug": "photoshop-acabamento-entrega-de-poster-super-heroi",
+    "nome": "Photoshop: Acabamento e entrega de um poster de super herói"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "photoshop-composicao",
+    "nome": "Photoshop: Composição de peça publicitária "
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "esboco-personagens-publicitario",
+    "nome": "Photoshop: Conceitue e esboce um personagem publicitário"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "photoshop-contando-historias-por-meio-de-imagens",
+    "nome": "Photoshop: Contando histórias por meio de uma imagem"
+  },
+  {
+    "tempo_estimado": 15,
+    "slug": "photoshop-esboco-de-um-poster-de-super-heroi",
+    "nome": "Photoshop: Crie um esboço de um poster de super herói"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "photoshop-tratamento-cores",
+    "nome": "Photoshop: Tratamento de Cores"
+  },
+  {
+    "tempo_estimado": 9,
+    "slug": "php-validacao-dados",
+    "nome": "PHP Brasil: Validação de dados no padrão nacional"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "php-composer",
+    "nome": "PHP Composer: Dependências, Autoload e Publicação"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "php-introducao-bdd",
+    "nome": "PHP e Behavior Driven Development: BDD com Behat"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "php-introducao-clean-achitecture",
+    "nome": "PHP e Clean Architecture: Descomplicando arquitetura de software"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "domain-driven-design-php",
+    "nome": "PHP e Domain Driven Design: Apresentando os conceitos"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "php-mysql",
+    "nome": "PHP e MySQL: Introdução a uma webapp"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "php-pdo-banco-de-dados",
+    "nome": "PHP e PDO: Trabalhando com bancos de dados"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "php-testes-end-to-end",
+    "nome": "PHP e Selenium: Testes de ponta a ponta"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "phpunit-tdd",
+    "nome": "PHP e TDD: Testes com PHPUnit"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "php-exceptions-tratamento-erros",
+    "nome": "PHP Exceptions: Tratamento de erros"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "php-io-arquivos-streams",
+    "nome": "PHP I/O: Trabalhando com arquivos e streams"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "php-parallel-programacao-paralela",
+    "nome": "PHP Parallel: Processos, Threads e Channels"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "php-reativo-programacao-assincrona-tempo-real",
+    "nome": "PHP Reativo: Programação assíncrona em tempo real"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "php-refatoracao",
+    "nome": "PHP Refatoração: Boas práticas no seu código"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "php-strings-operacoes-expressoes-regulares",
+    "nome": "PHP Strings: Operações e expressões regulares"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "php-xdebug-profiling",
+    "nome": "PHP Xdebug: Ferramenta de debug e profiling"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "php-dominando-collections",
+    "nome": "PHP: Dominando as Collections"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "php-arrays",
+    "nome": "PHP: Manipulando coleções com Arrays"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "php-programacao-funcional",
+    "nome": "PHP: Programação Funcional"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "pintura-digital-parte-1",
+    "nome": "Pintura Digital parte 1: Criando para publicidade no Photoshop"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "pintura-digital-parte-2",
+    "nome": "Pintura Digital parte 2: Acabamento de publicidade com Photoshop. "
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "scenery-painting",
+    "nome": "Pintura Digital: Montando e refinando o shading"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "painting-value",
+    "nome": "Pintura Digital: Pintando através do reconhecimento de valores"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "pintura-digital-texture-shading",
+    "nome": "Pintura Digital: Textura e Shading"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "painting-assets",
+    "nome": "Pintura Digital: Trabalhando na pintura dos assets"
+  },
+  {
+    "tempo_estimado": 3,
+    "slug": "pixel-art-sprite-de-personagem",
+    "nome": "Pixel Art parte 1: Sprite de personagem de RPG"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "pixel-art-aprimorando-o-sprite-personagem",
+    "nome": "Pixel Art parte 2: Aprimorando o seu sprite de personagem"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "pixel-art-animacao-sprite",
+    "nome": "Pixel Art: Animação de sprite de um RPG"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "pixel-art-desenhando-cenarios",
+    "nome": "Pixel Art: Desenhando um cenário de jogo top-down"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "seo-planejamento-avancado",
+    "nome": "Planejamento Avançado de SEO: da Estratégia ao Operacional"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "midia-programatica",
+    "nome": "Planejamento de mídia programática: técnicas eficientes"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "planejamento-vendas-estruturando-e-commerce",
+    "nome": "Planejamento de vendas: Estruturando seu e-commerce"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "plataforma-ecommerce",
+    "nome": "Plataforma e-commerce: Decisões no começo de sua loja virtual"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "plugin-wordpress-widget-shortcode",
+    "nome": "Plugin no Wordpress: widget, shortcode e configurações"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "pmbok-na-pratica",
+    "nome": "PMBOK na prática parte 1: Uma introdução geral"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "pmbok-iniciando-projetos",
+    "nome": "PMBOK na prática parte 2: Iniciando Projetos"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "pnl-comunicacao-efetiva",
+    "nome": "PNL: comunicação efetiva para o dia a dia"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "pontos-fortes",
+    "nome": "Pontos fortes parte 1: descubra os seus e aprenda a gerenciá-los"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "pontos-fortes-habilidades-competencias",
+    "nome": "Pontos fortes parte 2: Habilidades e competências"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "portfolio-ux-ui-montando-primeiro-projeto",
+    "nome": "Portfólio em UX/UI: Montando seu primeiro projeto"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "postgresql-administracao-otimizacao",
+    "nome": "PostgreSQL: Administração e otimização do banco"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "pgsql-comandos-dml-ddl",
+    "nome": "PostgreSQL: Comandos DML e DDL"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "postgresql-procedures",
+    "nome": "PostgreSQL: Desenvolva com PL/pgSQL"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "introducao-postgresql-primeiros-passos",
+    "nome": "PostgreSQL: Primeiros passos com SQL"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "postgresql-triggers-transacoes-erros-cursores",
+    "nome": "PostgreSQL: Triggers, transações, erros e cursores"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "postgresql-views-sub-consultas-funcoes",
+    "nome": "PostgreSQL: Views, Sub-Consultas e Funções"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "power-bi-desktop-primeiro-dashboard",
+    "nome": "Power BI Desktop: Construindo meu primeiro dashboard"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "power-bi-desktop-tratamento-dados-power-query",
+    "nome": "Power BI Desktop: Tratamento de dados no Power Query"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "power-bi-formulas-dax",
+    "nome": "Power BI: Entendendo as fórmulas DAX"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "power-bi-explorando-recursos-visuais",
+    "nome": "Power BI: Explorando recursos visuais"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "powershell-parte1",
+    "nome": "PowerShell parte 1: Começando com a linguagem de scripting moderna"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "powershell-parte2",
+    "nome": "PowerShell parte 2: Sessões, Jobs e Administração Remota"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "praticas-ageis",
+    "nome": "Práticas ágeis: O dia a dia do ambiente Agile"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "praticas-desprojetizacao-flow-framework",
+    "nome": "Práticas de Desprojetização: Flow Framework"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "editando-videos-com-pacote-adobe",
+    "nome": "Premiere e o After effects: Edite vídeos com o pacote Adobe"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "adobe-premiere-correcao-cor",
+    "nome": "Premiere: Processos de colorização e tratamento de imagem"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "adobe-premiere-ritmo-de-edicao-manipulando-emocoes",
+    "nome": "Premiere: Ritmo de edição e manipulando emoções"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "previsoes-serie-temporal-covid-19",
+    "nome": "Previsões de série temporal: COVID-19"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "primeira-lideranca-aprendendo-liderar-pessoas",
+    "nome": "Primeira liderança: Aprendendo sobre a missão e propósito de liderar pessoas"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "instagram-marketing-estrategias",
+    "nome": "Primeiros passos Instagram marketing: estratégia à execução"
+  },
+  {
+    "tempo_estimado": 13,
+    "slug": "principios-influencia",
+    "nome": "Princípios da influência: persuasão com foco em negócios"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "principios-trabalho-equipe-relacao-colaborativa",
+    "nome": "Princípios do trabalho em equipe: Relações colaborativas"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "principios-fotograficos",
+    "nome": "Princípios Fotográficos: Equipamento e técnica"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "mysql-procedures",
+    "nome": "Procedures SQL: Executando código no MySQL"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "procreate-pintura-digital-mobile",
+    "nome": "Procreate: Introdução à pintura digital mobile"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "procreate-pintura-personagem",
+    "nome": "Procreate: Pintura de um personagem"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "producao-audio-fundamentos-basicos",
+    "nome": "Produção de Audio: Fundamentos básicos"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "producao-de-conteudo",
+    "nome": "Produção de conteúdo: estratégias, planejamento e gestão"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "producao-podcast",
+    "nome": "Produção de podcasts: da concepção à publicação"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "producao-video",
+    "nome": "Produção de Video: conceitos essenciais de uma produção audiovisual"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "producao-celular",
+    "nome": "Produção de Vídeo: Filmando a partir do celular"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "producao-audiovisual",
+    "nome": "Produção de vídeo: O que há por trás do mundo do audiovisual"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "produtividade-administre-tempo",
+    "nome": "Produtividade parte 1: estratégias para o dia a dia"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "produtividade-organizacao-e-prioridade",
+    "nome": "Produtividade Parte 2: Organização e prioridade"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "produtividade",
+    "nome": "Produtividade: hábitos e práticas para o dia a dia"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "programacao-r-dashboard-online-shiny",
+    "nome": "Programação em R: Desenvolva dashboards online com Shiny"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "progressive-webapp-offline",
+    "nome": "Progressive Web Apps: crie apps offline"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "project-libre",
+    "nome": "Project Libre: Cronogramas de Projetos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "proposito-profissional-protagonista-carreira",
+    "nome": "Propósito profissional: Seja protagonista da sua carreira"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "propriedade-intelectual-startups",
+    "nome": "Propriedade Intelectual: aplicada em Startups e negócios em geral"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "prototipagem-alta-fidelidade-adobe-xd",
+    "nome": "Prototipagem e UX parte 1: Alta fidelidade com o Adobe XD"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "prototipagem-ux-link-com-telas-no-adobe-xd",
+    "nome": "Prototipagem e UX parte 2: linkando telas no Adobe XD"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "protractor-testando-aplicacao-ponta-ponta",
+    "nome": "Protractor: Testando sua aplicação de ponta a ponta"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "psicologia-positiva-lideranca-forcas-pessoais",
+    "nome": "Psicologia Positiva: Liderança autêntica a partir de forças pessoais"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "python-3-introducao-a-nova-versao-da-linguagem",
+    "nome": "Python 3 parte 1: Introdução à nova versão da linguagem"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "python-3-avancando-na-linguagem",
+    "nome": "Python 3 parte 2: Avançando na linguagem"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "python-3-avancando-orientacao-objetos",
+    "nome": "Python 3: Avançando na orientação a objetos"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "python-exceptions",
+    "nome": "Python 3: Entendendo o Tratamento de Erros"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "python-3-intro-orientacao-objetos",
+    "nome": "Python 3: Introdução a Orientação a objetos"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "python-3-trabalhando-com-io",
+    "nome": "Python 3: Trabalhando com I/O"
+  },
+  {
+    "tempo_estimado": 7,
+    "slug": "python-validacao-dados",
+    "nome": "Python Brasil: Validação de dados no padrão nacional"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "python-collections-listas-e-tuplas",
+    "nome": "Python Collections parte 1: Listas e tuplas"
+  },
+  {
+    "tempo_estimado": 9,
+    "slug": "python-collections-conjuntos-e-dicionarios",
+    "nome": "Python Collections parte 2: Conjuntos e dicionários"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "python-pandas-tecnicas-avancadas",
+    "nome": "Python Pandas: Técnicas avançadas"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "introducao-python-pandas",
+    "nome": "Python Pandas: Tratando e analisando dados"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "python-funcoes-pacotes-pandas",
+    "nome": "Python para Data Science: Funções, Pacotes e Pandas básico"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "python-tipos-listas-numpy",
+    "nome": "Python para Data Science: Introdução à linguagem e Numpy"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "python-intro",
+    "nome": "Python para Data Science: Primeiros passos"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "python-scikit-learn-regressao-classificacao-clustering",
+    "nome": "Python Scikit-Learn: Regressão, classificação e clustering"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "pep8-linters-python",
+    "nome": "Python: Boas práticas de código com PEP8"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "qgis-dados-geoespaciais",
+    "nome": "QGIS: Trabalhando com dados geoespaciais"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "raizes-equacoes-metodos-numericos-excel",
+    "nome": "Raízes de equações: Métodos numéricos com o Excel"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "raspberry-pi-node-red",
+    "nome": "Raspberry Pi Node-RED: Elabore aplicações conectando dispositivos e serviços"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "raspberrypi-da-instalacao-ao-media-center",
+    "nome": "Raspberry Pi parte 1: Da instalação ao Media Center"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "raspberrypi-controlando-o-mundo-com-gpio",
+    "nome": "Raspberry Pi parte 2: Controlando o mundo com GPIO"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "raspberrypi-carro-espiao-com-camera-wifi-e-sensor",
+    "nome": "Raspberry Pi parte 3: Carro espião com câmera, wifi e sensor"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "raspberrypi-servidor",
+    "nome": "Raspberry Pi Servidor: Montando um servidor para desenvolvimento"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "raspberry-pi-samba-vpn-iot-aws-s3",
+    "nome": "Raspberry Pi Servidor: Samba, VPN, IoT e AWS S3"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "raspberry-pi-rfid-e-aws-dynamo-db",
+    "nome": "Raspberry Pi: Autenticação com RFID e Dynamo DB"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "react-native-expo-navegacao-menu-suporte-telas",
+    "nome": "React Native com Expo: Navegação com menu e suporte às telas"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "react-native-design-system",
+    "nome": "React Native: Design System no seu app"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "react-router-navegacao-spa",
+    "nome": "React Router: Navegação em uma SPA"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "react-styled-components",
+    "nome": "React: Abstraindo seu CSS com Styled Components"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "react-automatizando-testes",
+    "nome": "React: Automatizando os testes em aplicações front-end"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "react-ciclo-de-vida",
+    "nome": "React: Ciclo de vida dos componentes"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "react-js",
+    "nome": "React: Entendendo como a biblioteca funciona"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "react-function-components",
+    "nome": "React: Function Components, uma abordagem moderna"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "react-hooks-e-formularios",
+    "nome": "React: Hooks, Contextos e boas práticas"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "rebranding",
+    "nome": "Rebranding: mude, transforme e recrie marcas para o século 21"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "reconhecimento-imagens",
+    "nome": "Reconhecimento de imagens: Twitter e Computer Vision API"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "recyclerview-listas-flexiveis-e-performaticas",
+    "nome": "Recycler View parte 1: Listas flexíveis e performáticas"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "recyclerview-listeners-animacoes",
+    "nome": "RecyclerView parte 2: Listeners, animações e boas práticas."
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "cnn-redes-neurais-convolucionais-deep-learning-pytorch",
+    "nome": "Redes Neurais Convolucionais: Deep Learning com PyTorch"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "rnn-redes-neurais-recorrentes-deep-learning-pytorch",
+    "nome": "Redes Neurais Recorrentes: Deep Learning com Pytorch"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "pln-deep-learning",
+    "nome": "Redes Neurais: Deep Learning com PyTorch"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "redes-introducao",
+    "nome": "Redes parte 1: Introdução, Conceitos e Prática"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "redes-montando-um-projeto-cliente-ate-o-provedor",
+    "nome": "Redes parte 2: Montando um projeto do cliente até o provedor de serviços"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "redes-parte-3-aplicando-acl-e-configuracao-nat",
+    "nome": "Redes parte 3: Defina as listas de controle e políticas de acesso de usuários"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "redes-parte-4-configuracao-de-protocolos-de-roteamento-ipv6",
+    "nome": "Redes parte 4: Configuração de protocolos de roteamento e IPv6"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "redes-wifi",
+    "nome": "Redes parte 5: Wi-FI"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "redesenho-logo",
+    "nome": "Redesenho de logo: a expressão gráfica do rebranding"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "nosql-chave-valor-com-redis-1",
+    "nome": "Redis I: Armazenando chaves e valores"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "nosql-chave-valor-com-redis-2",
+    "nome": "Redis II: Estruturas e recursos na sua base NoSQL"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "introducao-refatoracao-java",
+    "nome": "Refatoração em Java: Boas práticas no seu código"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "refatoracao-php-boas-praticas-codigo",
+    "nome": "Refatoração em PHP: Boas práticas no seu código"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "regressao-linear-simples",
+    "nome": "Regressão Linear Simples em R: Correlação e Previsão"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "data-science-modelo-regressao-linear-assimetria-statsmodel",
+    "nome": "Regressão Linear: Técnicas Avançadas de Modelagem"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "data-science-modelo-regressao-linear",
+    "nome": "Regressão Linear: Testando Relações e Prevendo Resultados"
+  },
+  {
+    "tempo_estimado": 7,
+    "slug": "rede-neural-numpy",
+    "nome": "Regressão: Implemente uma rede neural com numpy"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "relacionamento-interpessoal",
+    "nome": "Relacionamento Interpessoal parte 2: melhore seu potencial"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "relacionamento-pessoal",
+    "nome": "Relacionamento interpessoal: aprenda a lidar melhor com você e com o outro"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "report-analysis-com-pentaho",
+    "nome": "Report Analysis com Pentaho: Gerando relatórios empresariais"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "business-intelligence-power-bi",
+    "nome": "Report Analysis com Power BI: Gerando relatórios empresariais"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "node-rest-api",
+    "nome": "Rest com NodeJS: API com Express e MySQL"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "ux-do-briefing-ao-prototipo",
+    "nome": "Revisão UX: ferramentas do briefing ao protótipo"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "rh-agil-desenvolvendo-competencias-profissionais",
+    "nome": "RH Ágil: Desenvolvendo competências profissionais"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "rh-agil-employee-experience",
+    "nome": "RH Ágil: Employee Experience"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "rh-agil-employer-branding",
+    "nome": "RH Ágil: Employer Branding"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "rh-agil-estrategia-sobrevivencia",
+    "nome": "RH Ágil: Estratégia ou Sobrevivência"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "rh-avaliacao-desempenho-novas-perspectivas-gestao",
+    "nome": "RH na Avaliação de Desempenho: Um olhar nas novas perspectivas de Gestão"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "rh-educacao-corporativa-paradigmas",
+    "nome": "RH na Educação Corporativa: Visualizando novos paradigmas"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "robot-operating-system",
+    "nome": "Robot Operating System: Simule um robô na AWS RoboMaker"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "sap-activate-fundamentos-essenciais",
+    "nome": "SAP Activate: Fundamentos essenciais de gestão ágil em projetos SAP"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "sap-caracteristicas-gerais",
+    "nome": "SAP: Entendendo suas características gerais"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "sas-manipulando-bases-de-dados",
+    "nome": "SAS parte 1: Manipulando bases de dados"
+  },
+  {
+    "tempo_estimado": 7,
+    "slug": "sas-parte-2",
+    "nome": "SAS parte 2: Interagindo bases de dados"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "sass-css-superpoderes",
+    "nome": "Sass: O CSS com superpoderes"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "web-scraping-php",
+    "nome": "Scraping com PHP: Coleta de dados na web"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "web-scraping-data-science-python",
+    "nome": "Scraping com Python: Coleta de dados na web"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "scribus-manual-identidade-visual",
+    "nome": "Scribus: Criando um manual de identidade visual"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "scrum-escalado-less-framework",
+    "nome": "Scrum Escalado: LeSS Framework"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "scrum-parte-1",
+    "nome": "Scrum parte 1: Gerencie o seu projeto de forma ágil"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "scrum-parte-2",
+    "nome": "Scrum Parte 2: O Manifesto Ágil, Liderança e Organização em Scrum"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "scrum-parte-3",
+    "nome": "Scrum Parte 3: Iniciando Projetos com Agile"
+  },
+  {
+    "tempo_estimado": 7,
+    "slug": "scrum-parte-4",
+    "nome": "Scrum Parte 4: Planejando Projetos com Agile"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "scrum-parte-5",
+    "nome": "Scrum Parte 5: Executando Projetos com Agile"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "scrum-parte-6",
+    "nome": "Scrum Parte 6: Revisão, Retrospectiva e Encerramento de Projetos com Agile"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "agile-scrum",
+    "nome": "Scrum: Agilidade em seu projeto"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "seguranca-redes",
+    "nome": "Segurança de redes: Conheça as vulnerabilidades de servidores e clientes"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "pfsense-iptables",
+    "nome": "Segurança de redes: Crie um firewall com pfSense e iptables"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "seguranca-redes-protegendo-dados-vpn",
+    "nome": "Segurança de redes: Protegendo dados com VPNs"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "seguranca-web-em-java-parte-2",
+    "nome": "Segurança web em Java parte 2: XSS, Mass Assignment e Uploads de arquivos!"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "seguranca-web-em-java-parte-1",
+    "nome": "Segurança web em Java: Evitando SQL Injection, força bruta e outros ataques"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "seguranca-web-vulnerabilidades-do-seu-sistema",
+    "nome": "Segurança Web: Vulnerabilidades do seu sistema e OWASP"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "selenium-csharp-webdriver",
+    "nome": "Selenium WebDriver e C# parte 1: Primeiros passos"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "selenium-csharp-mais-recursos",
+    "nome": "Selenium WebDriver e C# parte 2: Outros recursos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "selenium-testes-automatizados-aceitacao-java",
+    "nome": "Selenium: Testes automatizados de aceitação em Java"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "seo-wordpress",
+    "nome": "SEO Wordpress: Otimize o ranqueamento do seu site"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "metricas-e-relatorios-seo",
+    "nome": "SEO: métricas e relatórios"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "sharepoint-ambiente-facilidades",
+    "nome": "SharePoint: Conhecendo o ambiente e facilidades"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "shellscripting",
+    "nome": "Shell Scripting parte 1: Começando seus scripts de automação de tarefas"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "shellscripting-parte-2",
+    "nome": "Shell Scripting parte 2: Fazendo monitoramento, agendando tarefas e backup"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "loja-online-shopify-2",
+    "nome": "Shopify II: Mais funcionalidades para a sua loja online"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "loja-online-shopify",
+    "nome": "Shopify: Colocando sua loja online no ar"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "shopify-liquid",
+    "nome": "Shopify: Customização com Liquid"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "shotcut-edicao-gratuita-computadores-baixo-rendimento",
+    "nome": "Shotcut: Editando gratuitamente com computadores de baixo rendimento"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "simulado-certificacoes-anbima",
+    "nome": "Simulado Certificações ANBIMA: CPA-10 e CPA-20"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "sindrome-do-impostor",
+    "nome": "Síndrome do Impostor: Reconheça seu sucesso e resultados"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "six-sigma-melhoria-processos",
+    "nome": "Six Sigma: Metodologia para melhoria de processos"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "sketch-componentes-interface",
+    "nome": "Sketch: Componentes da interface"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "sketch-design-mobile",
+    "nome": "Sketch: Design visual de um site mobile"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "sketch-refinando-interface",
+    "nome": "Sketch: Refinando o visual da interface"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "solid-csharp-principios-orientacao-a-objetos",
+    "nome": "SOLID com C#: Princípios da programação orientada a objetos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "solid-orientacao-objetos-java",
+    "nome": "SOLID com Java: Princípios da programação orientada a objetos"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "solid-php-principios-orientacao-a-objetos",
+    "nome": "SOLID com PHP: Princípios da programação orientada a objetos"
+  },
+  {
+    "tempo_estimado": 7,
+    "slug": "e-commerce-melhore-seu-fluxo-de-caixa",
+    "nome": "Soluções de pagamento e-commerce: Melhore a conversão e o fluxo de caixa"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "spark-ar-fundamentos-basicos",
+    "nome": "Spark AR: Fundamentos básicos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "spring-boot-api-rest",
+    "nome": "Spring Boot API REST: Construa uma API"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "spring-boot-seguranca-cache-monitoramento",
+    "nome": "Spring Boot API Rest: Segurança da API, Cache e Monitoramento"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "spring-boot-profiles-testes-deploy",
+    "nome": "Spring Boot e Teste: Profiles, Testes e Deploy"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "spring-data-jpa",
+    "nome": "Spring Data JPA: Repositórios, Consultas, Projeções e Specifications"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "spring-mvc-security-rest-vuejs-ajax",
+    "nome": "Spring MVC: Autenticação com Spring Security, API Rest e AJAX"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "spring-mvc-thymeleaf-bootstrap",
+    "nome": "Spring MVC: Crie um web app com Thymeleaf e Bootstrap"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "sql-server-xml",
+    "nome": "SQL Server e XML: Persistindo XML de maneira eficiente"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "administracao-do-sql-server-2017",
+    "nome": "SQL Server: Administração do Microsoft SQL Server 2017"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "consultas-sql-server-2017",
+    "nome": "SQL Server: Consultas avançadas com Microsoft SQL Server 2017"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "sql-server-microsoft-sql-server-2019",
+    "nome": "SQL Server: Introdução ao SQL com Microsoft SQL Server 2019"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "manipulacao-dados-com-sql-server-2017",
+    "nome": "SQL Server: Manipulação de dados com Microsoft SQL Server 2017"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "sql-server-documentos-json",
+    "nome": "SQL Server: Persistindo e recuperando documentos JSON"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "tsql-com-sql-server-2017",
+    "nome": "SQL Server: T-SQL com Microsoft SQL Server 2017"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "video-stop-motion",
+    "nome": "Stop Motion: Produção de vídeo para Mídia Social"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "string-python-extraindo-informacoes-url",
+    "nome": "String em Python: Extraindo informações de uma URL"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "substance-painter-texturizando-modelo-3d",
+    "nome": "Substance Painter: Texturizando um modelo 3D"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "swagger-documentando-apis",
+    "nome": "Swagger: Documentando suas APIs"
+  },
+  {
+    "tempo_estimado": 2,
+    "slug": "swift-novas-features-melhorias-nas-apis",
+    "nome": "Swift 4.2: Novas features e melhorias nas APIs"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "swoole-php-servidor-assincrono-corrotinas-php",
+    "nome": "Swoole PHP: Servidor assíncrono e corrotinas com PHP"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "php-symfony-api-restful",
+    "nome": "Symfony Parte 1: Criação de uma API Restful"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "php-symfony-api-restful-autenticacao",
+    "nome": "Symfony Parte 2: Autenticação e HATEOAS"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "symfony-tratamento-erros-cache-log-testes",
+    "nome": "Symfony Parte 3: Tratamento de erros, cache, logs e testes"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "tdd-java-testes-automatizados-junit",
+    "nome": "TDD e Java: Testes automatizados com JUnit"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "tdd-django-3-testes",
+    "nome": "TDD no Django 3: Desenvolvimento guiado por testes"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "tecnicas-facilitacao-rh-interacoes-envolvimento-colaboradores",
+    "nome": "Técnicas de facilitação de RH: Interações e envolvimento de colaboradores"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "terraform",
+    "nome": "Terraform: Automatize a infraestrutura na nuvem"
+  },
+  {
+    "tempo_estimado": 3,
+    "slug": "teste-de-usabilidade",
+    "nome": "Teste de usabilidade parte 1: Seu produto é fácil de usar?"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "teste-de-usabilidade-entregando-resultados",
+    "nome": "Teste de Usabilidade parte 2: Mensurando e entregando resultados"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "tdd-com-python",
+    "nome": "Testes automatizados: TDD com Python"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "php-testes-integracao",
+    "nome": "Testes de integração com PHP: Testando o acesso à API e ao banco de dados"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "teste-integracao-sql-daos-automatizados-java",
+    "nome": "Testes de Integração: Testes de SQL e DAOs automatizados em Java"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "testes-widgets-flutter",
+    "nome": "Testes de unidade e Widget com mocks: Boas práticas no Flutter"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "python-testes-com-dubles",
+    "nome": "Testes em Python: trabalhando com dublês de testes"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "testes-android-mockito-e-integracoes",
+    "nome": "Testes no Android: mocks e integrações"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "the-twelve-factor-app",
+    "nome": "The Twelve-Factor App: Metodologia para construção de aplicações robustas"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "threads-java-1",
+    "nome": "Threads em Java 1: Programação paralela"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "threads-java-2",
+    "nome": "Threads em Java 2: Programação concorrente avançada"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "tipografia-conceito",
+    "nome": "Tipografia: Conhecendo o que há por trás dos tipos"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "tomada-decisao-pensar-analisar-agir",
+    "nome": "Tomada de decisão: Pensar, analisar e agir"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "pentaho-data-integration-transformacao-com-etl",
+    "nome": "Transformação com ETL: Pentaho Data Integration"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "transformacao-organizacional-lean-agil",
+    "nome": "Transformação Organizacional: Lean-Ágil além da TI"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "transicao-carreira-tecnologia-guia-basico",
+    "nome": "Transição de carreira para tecnologia: Um guia básico"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "treinando-rede-neural-pytorch",
+    "nome": "Treinando uma Rede Neural: Deep Learning com PyTorch"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "twitter",
+    "nome": "Twitter: uma ferramenta para ganhar visibilidade profissional"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "typescript-evoluindo-javascript",
+    "nome": "TypeScript parte 1: Evoluindo seu JavaScript"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "typescript-avancando-linguagem",
+    "nome": "TypeScript parte 2: Avançando na linguagem"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "typescript-tecnicas-boas-praticas",
+    "nome": "Typescript parte 3: Mais técnicas e boas práticas"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "usabilidade-interfaces-mobile",
+    "nome": "UI Design Patterns: Usabilidade em interfaces mobile"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "uml-fundamentos-na-pratica",
+    "nome": "UML Fundamentos: Na Prática"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "introducao-a-uml",
+    "nome": "UML Introdução: Modelagem de soluções"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "flappybirdunity1",
+    "nome": "Unity 2D parte 1: Criando seu primeiro jogo 2D"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "flappybirdunity2",
+    "nome": "Unity 2D parte 2: Adicionando efeitos visuais ao seu jogo"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "unity-2d-criando-jogo-multiplayer",
+    "nome": "Unity 2D parte 3: Criando um jogo multiplayer"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "trabalhando-unity-mobile",
+    "nome": "Unity Mobile parte 1: Jogos para celular com persistência de dados"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "unity-mobile-interface-responsiva-desempenho",
+    "nome": "Unity Mobile Parte 2: Interface responsiva e desempenho"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "unity-mobile-aprofundando-jogos",
+    "nome": "Unity Mobile Parte 3: Aprofundando em jogos Mobile"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "criacao-de-jogos-com-unity",
+    "nome": "Unity parte 1: Criação de um jogo de sobrevivência à zumbis para Web"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "criacao-de-jogos-com-unity-2",
+    "nome": "Unity parte 2 : Iluminação, interface e boas práticas"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "criacao-de-jogos-com-unity-3",
+    "nome": "Unity parte 3: Criando um chefão e refinando o jogo"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "criacao-de-jogos-com-unity-4",
+    "nome": "Unity parte 4: Chefão, partículas e menu"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "unity-implementando-arte-no-jogo",
+    "nome": "Unity RPG parte 1: Implementando sua arte no jogo"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "unreal-vr-arquitetura-parte-1",
+    "nome": "Unreal Engine parte 1: Crie um ambiente em VR para arquitetura."
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "unreal-vr-programacao-com-blueprints",
+    "nome": "Unreal Engine parte 2: Programação com Blueprints Visual Scripting"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "unreal-fotografia-estudio-cinematics",
+    "nome": "Unreal Engine parte 3: Fotografia em Estúdio e Cinematics"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "unreal-controle-iluminacao-level-streaming",
+    "nome": "Unreal Engine parte 4: Controlando Iluminação com Level Streaming"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "unreal-engine-parte-5",
+    "nome": "Unreal Engine parte 5: Animação com Esqueletos e Simulação Física"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "unreal-engine-parte-6",
+    "nome": "Unreal Engine parte 6: Balística com mecânica de tiro ao alvo"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "unrealvr2-locomocao-por-teleporte",
+    "nome": "Unreal VR parte 2: Locomoção por Teleporte"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "acessibilidade-ux",
+    "nome": "UX Acessível: Projetando interfaces inclusivas"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "ux-design-patterns-navegacao-informacao",
+    "nome": "UX Design Patterns: Navegação e Informação"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "ux-design-patterns-pesquisa-busca",
+    "nome": "UX Design Patterns: Pesquisa e busca"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "ux-design-criando-dashboard-data-studio",
+    "nome": "UX Design: Criando dashboard com Data Studio"
+  },
+  {
+    "tempo_estimado": 2,
+    "slug": "ux-melhorias-de-produto",
+    "nome": "UX Produto: monitore, mensure e teste o seu projeto"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "ux-research-conversao",
+    "nome": "UX Research para otimização de sites"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "ux-research-analise-concorrentes",
+    "nome": "UX Research: Análise de concorrentes"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "ux-research-google-analytics",
+    "nome": "UX Research: análise de sites com Google Analytics"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "ux-research-avaliacao-heuristica",
+    "nome": "UX Research: avaliação heurística"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "ux-research-primeiros-passos",
+    "nome": "UX Research: entrevistas com equipes internas"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "ux-research-conduzindo-entrevistas-com-usuarios",
+    "nome": "UX Research: entrevistas com usuários"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "ux-research-analise-sintese-descobertas",
+    "nome": "UX Research: Mapeando a jornada do usuário"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "ux-strategy",
+    "nome": "UX Strategy: divergindo e afunilando ideias"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "ux-usabilidade",
+    "nome": "UX Usability: facilite a vida do seu usuário no mobile"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "ux-writing",
+    "nome": "UX Writing: Conteúdo focado no usuário"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "ux-metodologias-praticas-designers",
+    "nome": "UX: Metodologias práticas para designers"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "devops-com-vagrant-e-puppet",
+    "nome": "Vagrant e Puppet: Criação e provisionamento de maquinas virtuais"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "vagrant-gerenciando-maquinas-virtuais",
+    "nome": "Vagrant: Gerenciando máquinas virtuais"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "vb-net-primeiros-passos",
+    "nome": "VB.NET com Windows Forms Parte 1: Primeiros passos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "vb-net-entrada-saida-io",
+    "nome": "VB.NET com Windows Forms Parte 10: Entrada e saída (I/O) com streams"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "vb-net-banco-de-dados",
+    "nome": "VB.NET com Windows Forms Parte 11: Trabalhando com banco de dados"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "vb-net-introducao-orientacao-objetos",
+    "nome": "VB.NET com Windows Forms Parte 2: Introdução à Orientação a Objetos"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "vb-net-avancando-orientacao-objetos",
+    "nome": "VB.NET com Windows Forms Parte 3: Avançando na Orientação à objetos"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "vb-net-excecoes",
+    "nome": "VB.NET com Windows Forms Parte 4: Entendendo exceções"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "vb-net-bibliotecas-dll-documentacao-nuget",
+    "nome": "VB.NET com Windows Forms Parte 5: Criando bibliotecas DLLs, documentação e usando o NuGet"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "vb-net-strings-expressoes-regulares-classe-object",
+    "nome": "VB.NET com Windows Forms Parte 6: Manipulando Strings, expressões regulares e a classe Object"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "vb-net-array-tipos-genericos",
+    "nome": "VB.NET com Windows Forms Parte 7: Arrays e Tipos genéricos"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "vb-net-listas-dicionarios-conjuntos",
+    "nome": "VB.NET com Windows Forms Parte 8:  Listas, listas ligadas, dicionários e conjuntos"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "vb-net-lambda-linq-dataset",
+    "nome": "VB.NET com Windows Forms Parte 9:  Lambda Expressions, LINQ e Dataset"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "vegas-edicao",
+    "nome": "Vegas: Introdução a Edição de Vídeo"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "vendas-entendendo-a-necessidade-do-cliente",
+    "nome": "Vendas de alta performance: Entendendo a necessidade do cliente"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "vendas-alta-performance",
+    "nome": "Vendas de alta performance: Os primeiros passos"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "vendas-perguntas-poderosas",
+    "nome": "Vendas de alta performance: Perguntas poderosas"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "vendas-alta-performance-pitch-dicas-negociacao",
+    "nome": "Vendas de alta performance: Pitch e dicas de negociação"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "vendas-prospeccao-de-clientes",
+    "nome": "Vendas de alta performance: Prospecção de clientes"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "vendas-de-alta-performance-social-selling",
+    "nome": "Vendas de alta performance: Social Selling"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "vendas-solucao-e-proposta",
+    "nome": "Vendas de Alta performance: solução e proposta"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "vendas-aprenda-a-aprender",
+    "nome": "Vendas de alta performance: Técnicas para melhorar seu aprendizado"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "svg-css-animacao",
+    "nome": "Vetores e Animação com SVG: Trabalhando com CSS e JavaScript"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "viabilidade-projetos-negocios-fluxo-caixa-juros-vpl-tir-payback",
+    "nome": "Viabilidade de Projetos & Negócios: Fluxo de caixa, Juros, VPL, TIR e Payback"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "viabilidade-projetos-negocios-alternativas-investimento",
+    "nome": "Viabilidade de Projetos & Negócios: Seleção de alternativas de investimento"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "vim",
+    "nome": "Vim: Introdução e boas práticas a edição no terminal"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "vue-parte1",
+    "nome": "Vue.js parte 1: construindo Single Page Applications"
+  },
+  {
+    "tempo_estimado": 16,
+    "slug": "vue-parte2",
+    "nome": "Vue.js parte 2: construindo Single Page Applications"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "vuejs-protegendo-recursos-com-autenticacao-e-vuex",
+    "nome": "Vue.js: Protegendo recursos com autenticação e VueX"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "vuejs-testes-unitarios-automatizados-jest",
+    "nome": "Vue.js: Testes unitários automatizados com Jest"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "web-analytics-fundamentos",
+    "nome": "Web Analytics: Fundamentos"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "webpack-modulos-webapp",
+    "nome": "Webpack: Trabalhando com módulos na sua webapp"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "windows-forms-csharp-banco-de-dados-sql-server",
+    "nome": "Windows Forms com C#: Acesso ao banco de dados SQL Server"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "windows-forms-csharp-barra-ferramentas-classes-json",
+    "nome": "Windows Forms com C#: Barra de ferramentas, trabalhando com classes e JSON"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "windows-forms-csharp-eventos-mouse-componentes",
+    "nome": "Windows Forms com C#: Eventos do mouse e mais componentes"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "windows-forms-csharp-formularios-componentes-eventos",
+    "nome": "Windows Forms com C#: Formulários, componentes e eventos"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "windows-forms-csharp-manipulacao-dados",
+    "nome": "Windows Forms com C#: Manipulando os dados do cliente"
+  },
+  {
+    "tempo_estimado": 14,
+    "slug": "windows-forms-csharp-menus-formularios-validacao",
+    "nome": "Windows Forms com C#: Menus, outros formulários e validação com login e senha"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "windows-forms-csharp-introducao-banco-de-dados",
+    "nome": "Windows Forms com C#: Persista os dados no banco de dados"
+  },
+  {
+    "tempo_estimado": 5,
+    "slug": "prompt",
+    "nome": "Windows: Introdução ao Prompt"
+  },
+  {
+    "tempo_estimado": 6,
+    "slug": "loja-virtual-woocommerce",
+    "nome": "Woocommerce: monte sua primeira loja virtual"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "introducao-word-embedding",
+    "nome": "Word2Vec: interpretação da linguagem humana com Word embedding"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "word2vec-treinamento-word-embedding",
+    "nome": "Word2Vec: Treinamento de Word Embedding"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "wordpress-criacao-tema-personalizado",
+    "nome": "WordPress: Criação de um tema personalizado"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "wordpress-integracao-whatsapp",
+    "nome": "Wordpress: integração whatsapp e internacionalização"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "worpress-sites-elementor",
+    "nome": "Wordpress: Sites com Elementor"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "xstream",
+    "nome": "XStream: Consumindo o XML sem esforço"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "canal-youtube",
+    "nome": "Youtube parte 1: Criação e otimização de um canal"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "youtube-otimizacao-monetizacao-do-canal",
+    "nome": "YouTube parte 2:  Otimização e monetização do canal"
+  },
+  {
+    "tempo_estimado": 4,
+    "slug": "negocios-no-youtube",
+    "nome": "YouTube: Crie um negócio como gerador de conteúdo"
+  },
+  {
+    "tempo_estimado": 20,
+    "slug": "edicao-de-videos-para-youtube",
+    "nome": "YouTube: da concepção de um canal ao upload"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "zbrush-2019-blocagem-escultura-dynamesh",
+    "nome": "ZBrush 2019: Blocagem de uma escultura com DynaMesh"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "zbrush-2019-refinamento-escultura",
+    "nome": "ZBrush 2019: Trabalhando no refinamento de uma escultura"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "zbrush-osteologia-pelvis",
+    "nome": "ZBrush Osteologia: A descomplicação da pélvis"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "zbrush-osteologia-arcada-dentaria",
+    "nome": "ZBrush Osteologia: Arcada dentária"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "zbrush-osteologia-braco",
+    "nome": "Zbrush Osteologia: Braço"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "zbrush-osteologia-detalhamento-cranio",
+    "nome": "ZBrush Osteologia: Detalhando o crânio"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "zbrush-osteologia-espinha-dorsal",
+    "nome": "ZBrush Osteologia: Espinha dorsal"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "zbrush-osteologia-estrutura-torax",
+    "nome": "ZBrush Osteologia: Estrutura do tórax"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "zbrush-osteologia-estrutura-planificacao-cranio",
+    "nome": "ZBrush Osteologia: Estrutura e planificação do crânio"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "zbrush-osteologia-femur",
+    "nome": "Zbrush Osteologia: Fêmur"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "zbrush-osteologia-guideline-humano",
+    "nome": "ZBrush Osteologia: Guideline Humano"
+  },
+  {
+    "tempo_estimado": 8,
+    "slug": "zbrush-blocagem-cabeca-humana",
+    "nome": "ZBrush: Blocagem da cabeça humana"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "zbrush-guideline",
+    "nome": "ZBrush: Definindo a guideline do personagem"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "zbrush",
+    "nome": "ZBrush: Do box modeling para a escultura digital"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "zbrush-escultura-criativa",
+    "nome": "ZBrush: Pensamento criativo para escultura"
+  },
+  {
+    "tempo_estimado": 10,
+    "slug": "zbrush-tecnicas-polypaint",
+    "nome": "ZBrush: Técnicas de Polypaint"
+  },
+  {
+    "tempo_estimado": 12,
+    "slug": "zbrush-esculpindo",
+    "nome": "ZBrush: Trabalhando no blocking do modelo"
+  }
+]
