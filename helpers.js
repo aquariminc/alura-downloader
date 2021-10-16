@@ -10,7 +10,31 @@ const getPath = (paths = []) => {
   return path.join(__dirname, dir)
 }
 
+
+function removeHTMLTags() {
+  if(this.replaceAll)
+    return this.replaceAll(/(<([^>]+)>)/ig, '')
+  return this.replace(/(<([^>]+)>)/ig, '')
+}
+
+function removeNewLines() {
+  if(this.replaceAll)
+    return this.replaceAll('\n', '')
+  return this.replace('\n', '')
+}
+
+function removeBlankSpace() {
+  return this.trimStart().trimEnd()
+}
+
+String.prototype.removeHTMLTags = removeHTMLTags
+String.prototype.removeNewLines = removeNewLines
+String.prototype.removeBlankSpace = removeBlankSpace
+
 module.exports = {
-  getPath
+  getPath,
+  removeHTMLTags,
+  removeNewLines,
+  removeBlankSpace
 }
 

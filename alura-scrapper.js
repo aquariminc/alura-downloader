@@ -15,9 +15,12 @@ const extractLessons = async ({page}) => {
     const lessons = []
     document.querySelectorAll('li.courseSection-listItem').forEach(lessonContainerElement => {
       const link = lessonContainerElement.getElementsByTagName('a')[0].getAttribute("href")
+      const rawTitle = lessonContainerElement.getElementsByClassName("courseSectionList-sectionTitle")[0].childNodes[0].nodeValue
       lessons.push({
         link: link ? baseUrl.concat(link) : null,
-        title: lessonContainerElement.getElementsByClassName('courseSectionList-sectionTitle')[0].innerText,
+        title: rawTitle ?
+          rawTitle.replace(/(<([^>]+)>|(\\n))/ig, '').trimStart().trimEnd() :
+          lessonContainerElement.getElementsByClassName("courseSectionList-sectionTitle")[0].innerText,
       })
     })
     return lessons
@@ -43,7 +46,7 @@ const extractQuestion = async ({page}) => {
   })
 }
 
-const extractSingleChoice = async ({page}) => {
+const extractChoices = async ({page}) => {
 
   return await page.evaluate(() => {
 
@@ -57,7 +60,7 @@ const extractSingleChoice = async ({page}) => {
       const opinion = element.getElementsByClassName("alternativeList-item-alternativeOpinion")[0]?.innerHTML
       const correct = element.getAttribute("data-correct") === "true"
 
-      alternatives.push({ content, opinion, correct })
+      alternatives.push({content, opinion, correct})
 
     })
 
@@ -72,9 +75,10 @@ const extractSingleChoice = async ({page}) => {
 
 const extractVideoInformation = async ({page}) => {
   return await page.evaluate(() => {
+    const formattedText = document.getElementsByClassName("formattedText")[0]
     return {
       type: 'video',
-      content: document.getElementsByClassName("formattedText")[0].innerHTML
+      content: formattedText ? formattedText.innerHTML : ""
     }
   })
 }
@@ -85,10 +89,13 @@ const extractTasks = async ({page}) => {
     const getTypeTaskByAnchorElement = (element) => {
       const elementClasses = element.classList
       switch (true) {
+        case elementClasses.contains("task-menu-nav-item-link-TEXT_CONTENT"):
         case elementClasses.contains("task-menu-nav-item-link-HQ_EXPLANATION"):
           return 'text'
         case elementClasses.contains("task-menu-nav-item-link-OPEN_QUESTION"):
           return 'openQuestion'
+        case elementClasses.contains("task-menu-nav-item-link-MULTIPLE_CHOICE"):
+          return "multipleChoice"
         case elementClasses.contains("task-menu-nav-item-link-SINGLE_CHOICE"):
           return "singleChoice"
         case elementClasses.contains("task-menu-nav-item-link-VIDEO"):
@@ -118,6 +125,6 @@ module.exports = {
   extractCourseTitle,
   extractText,
   extractQuestion,
-  extractSingleChoice,
+  extractChoices,
   extractVideoInformation
 }
